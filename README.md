@@ -1,34 +1,53 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Clan Leader Tool
 
-## Getting Started
+Tracking performa war & CWL Clash of Clans untuk klan **The Last Of Us** (`#2RV22C9L9`).
+Pipeline file-based, jalan lokal + GitHub Actions, output ke Google Sheet.
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+```
+poll ──cocproxy──► CoC API
+  └─► data/wars/*.json ──► report ──► data/leaderboard.json ──► Google Sheet
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Setup
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```sh
+bun install
+cp .env.example .env   # isi COC_API_TOKEN + (opsional) SHEETS_*
+```
 
-## Learn More
+Token dibuat di developer.clashofclans.com, IP di-whitelist ke `45.79.218.79` (IP proxy).
 
-To learn more about Next.js, take a look at the following resources:
+## Perintah
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+| Perintah | Fungsi |
+|---|---|
+| `bun run poll` | ambil currentwar tiap klan → `data/wars/*.json` |
+| `bun run report` | recompute `data/leaderboard.json` dari semua war `warEnded` |
+| `bun run export` | kirim leaderboard ke Google Sheet (no-op kalau `SHEETS_*` kosong) |
+| `bun run sync` | poll → report → export |
+| `bun run test` | unit test |
+| `bun run typecheck` | `tsc --noEmit` |
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Kenapa harus sering poll
 
-## Deploy on Vercel
+Data per-serangan hilang dari API begitu war berikutnya mulai; `warlog` cuma simpan
+ringkasan. Jadi butuh ≥1 poll di jendela antara war berakhir dan war baru mulai —
+makanya ada cron GitHub Actions (`.github/workflows/poll.yml`, tiap 30 menit).
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Google Sheet
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Lihat `apps-script/Code.gs` untuk setup webhook (sekali).
+
+## Struktur
+
+- `lib/coc/` — client API (via cocproxy)
+- `lib/normalize/` — raw war → bentuk internal (pure)
+- `lib/stats/` — metrik & skor performa (pure)
+- `lib/store.ts`, `lib/sheet.ts` — I/O file & format sheet
+- `scripts/` — poll, report, export
+- `fixtures/` — respons API nyata buat test
+
+## Belum dikerjakan
+
+- F2 ingest CWL (sebelum CWL November)
+- exclude friendly war (`data/excludes.json`) saat dibutuhkan

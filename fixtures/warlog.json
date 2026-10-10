@@ -1,0 +1,2000 @@
+{
+    "items": [
+        {
+            "result": null,
+            "endTime": "20261009T155732.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 1,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/8igLsY7rfmiXhdf5WtIc90P4xRhZebiIM7x-pdWG0WU.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/8igLsY7rfmiXhdf5WtIc90P4xRhZebiIM7x-pdWG0WU.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/8igLsY7rfmiXhdf5WtIc90P4xRhZebiIM7x-pdWG0WU.png"
+                },
+                "clanLevel": 19,
+                "attacks": 208,
+                "stars": 628,
+                "destructionPercentage": 680.5333,
+                "expEarned": 0
+            },
+            "opponent": {
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+                },
+                "clanLevel": 0,
+                "stars": 548,
+                "destructionPercentage": 0.0
+            }
+        },
+        {
+            "result": "tie",
+            "endTime": "20260929T100224.000Z",
+            "teamSize": 35,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png"
+                },
+                "clanLevel": 18,
+                "attacks": 49,
+                "stars": 105,
+                "destructionPercentage": 100.0,
+                "expEarned": 530
+            },
+            "opponent": {
+                "tag": "#J88LJQ2G",
+                "name": "Geeks",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/9m2KZW4HabdH_sI1pUCyKyhh_BzWu9i0hOeaCN1ev2A.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/9m2KZW4HabdH_sI1pUCyKyhh_BzWu9i0hOeaCN1ev2A.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/9m2KZW4HabdH_sI1pUCyKyhh_BzWu9i0hOeaCN1ev2A.png"
+                },
+                "clanLevel": 30,
+                "stars": 105,
+                "destructionPercentage": 100.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260927T094717.000Z",
+            "teamSize": 35,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png"
+                },
+                "clanLevel": 18,
+                "attacks": 63,
+                "stars": 105,
+                "destructionPercentage": 100.0,
+                "expEarned": 585
+            },
+            "opponent": {
+                "tag": "#CLCPRJ92",
+                "name": "THANGZ DYNASTY",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/h9UbmSZNly1er7-GrsvOExwMUEdrcyXnyNahPmDK4yQ.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/h9UbmSZNly1er7-GrsvOExwMUEdrcyXnyNahPmDK4yQ.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/h9UbmSZNly1er7-GrsvOExwMUEdrcyXnyNahPmDK4yQ.png"
+                },
+                "clanLevel": 25,
+                "stars": 87,
+                "destructionPercentage": 89.685715
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260925T063643.000Z",
+            "teamSize": 35,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png"
+                },
+                "clanLevel": 18,
+                "attacks": 59,
+                "stars": 105,
+                "destructionPercentage": 100.0,
+                "expEarned": 594
+            },
+            "opponent": {
+                "tag": "#280CYCPQY",
+                "name": "killer troops",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/PYMUFZ8mjBuXBOUSV49laHg9jJIIh7UHHxQROup10rc.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/PYMUFZ8mjBuXBOUSV49laHg9jJIIh7UHHxQROup10rc.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/PYMUFZ8mjBuXBOUSV49laHg9jJIIh7UHHxQROup10rc.png"
+                },
+                "clanLevel": 22,
+                "stars": 91,
+                "destructionPercentage": 94.74286
+            }
+        },
+        {
+            "result": "tie",
+            "endTime": "20260923T073043.000Z",
+            "teamSize": 35,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png"
+                },
+                "clanLevel": 18,
+                "attacks": 59,
+                "stars": 105,
+                "destructionPercentage": 100.0,
+                "expEarned": 523
+            },
+            "opponent": {
+                "tag": "#2LJU8PRGP",
+                "name": "Rolling Peppers",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/WBSczP7MTX_DHghed4EvUSns5catnQom2gxnRgd4FRA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/WBSczP7MTX_DHghed4EvUSns5catnQom2gxnRgd4FRA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/WBSczP7MTX_DHghed4EvUSns5catnQom2gxnRgd4FRA.png"
+                },
+                "clanLevel": 23,
+                "stars": 105,
+                "destructionPercentage": 100.0
+            }
+        },
+        {
+            "result": "tie",
+            "endTime": "20260921T073538.000Z",
+            "teamSize": 35,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png"
+                },
+                "clanLevel": 18,
+                "attacks": 58,
+                "stars": 105,
+                "destructionPercentage": 100.0,
+                "expEarned": 534
+            },
+            "opponent": {
+                "tag": "#V00G92QR",
+                "name": "never_sleep",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/a7gxXjX0p3KA56JCriNNmePDas6-Ms2_Hfj7qKigYK0.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/a7gxXjX0p3KA56JCriNNmePDas6-Ms2_Hfj7qKigYK0.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/a7gxXjX0p3KA56JCriNNmePDas6-Ms2_Hfj7qKigYK0.png"
+                },
+                "clanLevel": 23,
+                "stars": 105,
+                "destructionPercentage": 100.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260919T062515.000Z",
+            "teamSize": 35,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png"
+                },
+                "clanLevel": 18,
+                "attacks": 59,
+                "stars": 105,
+                "destructionPercentage": 100.0,
+                "expEarned": 584
+            },
+            "opponent": {
+                "tag": "#V9JY0R2G",
+                "name": "\u0627\u0644\u0639\u0631\u0648\u0628\u0629",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/c3hixeIv3R4Dr7HJwrt-pyXIzK52mjX2Mm1zE1JTLp0.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/c3hixeIv3R4Dr7HJwrt-pyXIzK52mjX2Mm1zE1JTLp0.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/c3hixeIv3R4Dr7HJwrt-pyXIzK52mjX2Mm1zE1JTLp0.png"
+                },
+                "clanLevel": 27,
+                "stars": 84,
+                "destructionPercentage": 89.77143
+            }
+        },
+        {
+            "result": "tie",
+            "endTime": "20260917T045825.000Z",
+            "teamSize": 35,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png"
+                },
+                "clanLevel": 18,
+                "attacks": 59,
+                "stars": 105,
+                "destructionPercentage": 100.0,
+                "expEarned": 535
+            },
+            "opponent": {
+                "tag": "#2G9GQCU22",
+                "name": "MAHADEV CLAN 2.",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/Z8Z1Er0uyqqaTAyDqsIh21SoIfs9WWFvmUgw8vH8jcw.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/Z8Z1Er0uyqqaTAyDqsIh21SoIfs9WWFvmUgw8vH8jcw.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/Z8Z1Er0uyqqaTAyDqsIh21SoIfs9WWFvmUgw8vH8jcw.png"
+                },
+                "clanLevel": 20,
+                "stars": 105,
+                "destructionPercentage": 100.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260915T050505.000Z",
+            "teamSize": 35,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png"
+                },
+                "clanLevel": 18,
+                "attacks": 55,
+                "stars": 105,
+                "destructionPercentage": 100.0,
+                "expEarned": 579
+            },
+            "opponent": {
+                "tag": "#2G8Q9JU0Y",
+                "name": "Gujarat Kingdom",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/cJT4ts4W7CXHJrSJLtT3xJ3k36VgcndYX7qCg-7APdE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/cJT4ts4W7CXHJrSJLtT3xJ3k36VgcndYX7qCg-7APdE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/cJT4ts4W7CXHJrSJLtT3xJ3k36VgcndYX7qCg-7APdE.png"
+                },
+                "clanLevel": 26,
+                "stars": 92,
+                "destructionPercentage": 95.74286
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260913T053139.000Z",
+            "teamSize": 35,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png"
+                },
+                "clanLevel": 18,
+                "attacks": 59,
+                "stars": 105,
+                "destructionPercentage": 100.0,
+                "expEarned": 582
+            },
+            "opponent": {
+                "tag": "#2YLCG2U02",
+                "name": "\u0627\u0641\u0633\u0627\u0646\u0647 \u06cc \u06a9\u0644\u0634",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ZKebCnfjmZkpyRXJagkHSNqA07Bb4PyXK7i9XerBWdk.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ZKebCnfjmZkpyRXJagkHSNqA07Bb4PyXK7i9XerBWdk.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ZKebCnfjmZkpyRXJagkHSNqA07Bb4PyXK7i9XerBWdk.png"
+                },
+                "clanLevel": 28,
+                "stars": 81,
+                "destructionPercentage": 86.14286
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260910T111147.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 1,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png"
+                },
+                "clanLevel": 18,
+                "attacks": 209,
+                "stars": 638,
+                "destructionPercentage": 680.13336,
+                "expEarned": 0
+            },
+            "opponent": {
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+                },
+                "clanLevel": 0,
+                "stars": 492,
+                "destructionPercentage": 0.0
+            }
+        },
+        {
+            "result": "tie",
+            "endTime": "20260901T081214.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png"
+                },
+                "clanLevel": 18,
+                "attacks": 49,
+                "stars": 90,
+                "destructionPercentage": 100.0,
+                "expEarned": 467
+            },
+            "opponent": {
+                "tag": "#QP2LVJL0",
+                "name": "hog of fire",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/-h5RtATqb7CAm_BMXOBDaawbVtpKoRVKPb6gOTUnOcY.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/-h5RtATqb7CAm_BMXOBDaawbVtpKoRVKPb6gOTUnOcY.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/-h5RtATqb7CAm_BMXOBDaawbVtpKoRVKPb6gOTUnOcY.png"
+                },
+                "clanLevel": 16,
+                "stars": 90,
+                "destructionPercentage": 100.0
+            }
+        },
+        {
+            "result": "tie",
+            "endTime": "20260829T070907.000Z",
+            "teamSize": 35,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png"
+                },
+                "clanLevel": 18,
+                "attacks": 64,
+                "stars": 105,
+                "destructionPercentage": 100.0,
+                "expEarned": 525
+            },
+            "opponent": {
+                "tag": "#2RU8PQ899",
+                "name": "3 con cu",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/Jfq9kbHWq64cg93BRGzz1Ej6RljN4r9SlQwYkfhf5AM.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/Jfq9kbHWq64cg93BRGzz1Ej6RljN4r9SlQwYkfhf5AM.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/Jfq9kbHWq64cg93BRGzz1Ej6RljN4r9SlQwYkfhf5AM.png"
+                },
+                "clanLevel": 17,
+                "stars": 105,
+                "destructionPercentage": 100.0
+            }
+        },
+        {
+            "result": "tie",
+            "endTime": "20260827T033819.000Z",
+            "teamSize": 35,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png"
+                },
+                "clanLevel": 18,
+                "attacks": 58,
+                "stars": 105,
+                "destructionPercentage": 100.0,
+                "expEarned": 524
+            },
+            "opponent": {
+                "tag": "#2RCQ9GL8C",
+                "name": "Vi\u1ec7t Nam!",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/NAnRjYKCch7_vuihPDRTin-HRFdR-9L_Zgd2qyzg4I0.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/NAnRjYKCch7_vuihPDRTin-HRFdR-9L_Zgd2qyzg4I0.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/NAnRjYKCch7_vuihPDRTin-HRFdR-9L_Zgd2qyzg4I0.png"
+                },
+                "clanLevel": 20,
+                "stars": 105,
+                "destructionPercentage": 100.0
+            }
+        },
+        {
+            "result": "tie",
+            "endTime": "20260825T043625.000Z",
+            "teamSize": 35,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png"
+                },
+                "clanLevel": 18,
+                "attacks": 52,
+                "stars": 105,
+                "destructionPercentage": 100.0,
+                "expEarned": 528
+            },
+            "opponent": {
+                "tag": "#2GVPUJPQR",
+                "name": "Turan",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/5lVQBsB0y4pK-MdLqRt32dlDfeJBXIm0CtC9qIneFzs.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/5lVQBsB0y4pK-MdLqRt32dlDfeJBXIm0CtC9qIneFzs.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/5lVQBsB0y4pK-MdLqRt32dlDfeJBXIm0CtC9qIneFzs.png"
+                },
+                "clanLevel": 22,
+                "stars": 105,
+                "destructionPercentage": 100.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260823T051920.000Z",
+            "teamSize": 35,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png"
+                },
+                "clanLevel": 18,
+                "attacks": 55,
+                "stars": 105,
+                "destructionPercentage": 100.0,
+                "expEarned": 570
+            },
+            "opponent": {
+                "tag": "#2JYGYGLP9",
+                "name": "l\u1eb7ng",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/nV-OPU21YUHu4Q-tQocnERzGVTsEt8N_4vAFNzTVcP4.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/nV-OPU21YUHu4Q-tQocnERzGVTsEt8N_4vAFNzTVcP4.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/nV-OPU21YUHu4Q-tQocnERzGVTsEt8N_4vAFNzTVcP4.png"
+                },
+                "clanLevel": 17,
+                "stars": 102,
+                "destructionPercentage": 99.34286
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260821T060228.000Z",
+            "teamSize": 35,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png"
+                },
+                "clanLevel": 18,
+                "attacks": 58,
+                "stars": 105,
+                "destructionPercentage": 100.0,
+                "expEarned": 564
+            },
+            "opponent": {
+                "tag": "#2Q08R9JUJ",
+                "name": "A2 WARRIOR",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ghBx6wYkYMKdGrmDqVmkebcqUOVQapjGUEsUMd8V0Uc.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ghBx6wYkYMKdGrmDqVmkebcqUOVQapjGUEsUMd8V0Uc.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ghBx6wYkYMKdGrmDqVmkebcqUOVQapjGUEsUMd8V0Uc.png"
+                },
+                "clanLevel": 21,
+                "stars": 91,
+                "destructionPercentage": 90.74286
+            }
+        },
+        {
+            "result": "tie",
+            "endTime": "20260819T064507.000Z",
+            "teamSize": 35,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/Lsn_hrbbHQ-NaBdNXy-rjCzuaNj42XhpnuZllWDy3-I.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/Lsn_hrbbHQ-NaBdNXy-rjCzuaNj42XhpnuZllWDy3-I.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/Lsn_hrbbHQ-NaBdNXy-rjCzuaNj42XhpnuZllWDy3-I.png"
+                },
+                "clanLevel": 17,
+                "attacks": 62,
+                "stars": 105,
+                "destructionPercentage": 100.0,
+                "expEarned": 519
+            },
+            "opponent": {
+                "tag": "#2G0Y9YYPQ",
+                "name": "Ato ni Bai",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/QrVUChfc26HLVucbx2-flgnVjF3h3UfSBG0rRwDe1zM.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/QrVUChfc26HLVucbx2-flgnVjF3h3UfSBG0rRwDe1zM.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/QrVUChfc26HLVucbx2-flgnVjF3h3UfSBG0rRwDe1zM.png"
+                },
+                "clanLevel": 24,
+                "stars": 105,
+                "destructionPercentage": 100.0
+            }
+        },
+        {
+            "result": "tie",
+            "endTime": "20260817T072537.000Z",
+            "teamSize": 35,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/Lsn_hrbbHQ-NaBdNXy-rjCzuaNj42XhpnuZllWDy3-I.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/Lsn_hrbbHQ-NaBdNXy-rjCzuaNj42XhpnuZllWDy3-I.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/Lsn_hrbbHQ-NaBdNXy-rjCzuaNj42XhpnuZllWDy3-I.png"
+                },
+                "clanLevel": 17,
+                "attacks": 62,
+                "stars": 105,
+                "destructionPercentage": 100.0,
+                "expEarned": 521
+            },
+            "opponent": {
+                "tag": "#JUU2CYVC",
+                "name": "kmine",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/-FxP_L9YW3CWMeGQap83Kmc83kQmfTWwomR6dOTaJMw.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/-FxP_L9YW3CWMeGQap83Kmc83kQmfTWwomR6dOTaJMw.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/-FxP_L9YW3CWMeGQap83Kmc83kQmfTWwomR6dOTaJMw.png"
+                },
+                "clanLevel": 21,
+                "stars": 105,
+                "destructionPercentage": 100.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260815T074440.000Z",
+            "teamSize": 40,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/Lsn_hrbbHQ-NaBdNXy-rjCzuaNj42XhpnuZllWDy3-I.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/Lsn_hrbbHQ-NaBdNXy-rjCzuaNj42XhpnuZllWDy3-I.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/Lsn_hrbbHQ-NaBdNXy-rjCzuaNj42XhpnuZllWDy3-I.png"
+                },
+                "clanLevel": 17,
+                "attacks": 71,
+                "stars": 120,
+                "destructionPercentage": 100.0,
+                "expEarned": 646
+            },
+            "opponent": {
+                "tag": "#2G2GPRVLU",
+                "name": "KZstan",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/cLhq4-xujPk7vP_So0aOMiI1ZIPBeydD0QxBZdVVkgI.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/cLhq4-xujPk7vP_So0aOMiI1ZIPBeydD0QxBZdVVkgI.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/cLhq4-xujPk7vP_So0aOMiI1ZIPBeydD0QxBZdVVkgI.png"
+                },
+                "clanLevel": 17,
+                "stars": 94,
+                "destructionPercentage": 87.675
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260813T063643.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/Lsn_hrbbHQ-NaBdNXy-rjCzuaNj42XhpnuZllWDy3-I.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/Lsn_hrbbHQ-NaBdNXy-rjCzuaNj42XhpnuZllWDy3-I.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/Lsn_hrbbHQ-NaBdNXy-rjCzuaNj42XhpnuZllWDy3-I.png"
+                },
+                "clanLevel": 17,
+                "attacks": 56,
+                "stars": 90,
+                "destructionPercentage": 100.0,
+                "expEarned": 506
+            },
+            "opponent": {
+                "tag": "#2Q009PQ2R",
+                "name": "WarMaster",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/oMEGdZLzOwVUKGieTT2I-YYR1l3GX9lHq2ecYmnOAAQ.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/oMEGdZLzOwVUKGieTT2I-YYR1l3GX9lHq2ecYmnOAAQ.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/oMEGdZLzOwVUKGieTT2I-YYR1l3GX9lHq2ecYmnOAAQ.png"
+                },
+                "clanLevel": 17,
+                "stars": 79,
+                "destructionPercentage": 91.433334
+            }
+        },
+        {
+            "result": null,
+            "endTime": "20260810T100405.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 1,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/Lsn_hrbbHQ-NaBdNXy-rjCzuaNj42XhpnuZllWDy3-I.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/Lsn_hrbbHQ-NaBdNXy-rjCzuaNj42XhpnuZllWDy3-I.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/Lsn_hrbbHQ-NaBdNXy-rjCzuaNj42XhpnuZllWDy3-I.png"
+                },
+                "clanLevel": 17,
+                "attacks": 206,
+                "stars": 573,
+                "destructionPercentage": 649.8,
+                "expEarned": 0
+            },
+            "opponent": {
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+                },
+                "clanLevel": 0,
+                "stars": 508,
+                "destructionPercentage": 0.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260801T180046.000Z",
+            "teamSize": 10,
+            "attacksPerMember": 1,
+            "battleModifier": "minusOne",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/Lsn_hrbbHQ-NaBdNXy-rjCzuaNj42XhpnuZllWDy3-I.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/Lsn_hrbbHQ-NaBdNXy-rjCzuaNj42XhpnuZllWDy3-I.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/Lsn_hrbbHQ-NaBdNXy-rjCzuaNj42XhpnuZllWDy3-I.png"
+                },
+                "clanLevel": 17,
+                "attacks": 4,
+                "stars": 11,
+                "destructionPercentage": 37.7,
+                "expEarned": 0
+            },
+            "opponent": {
+                "tag": "#2CCQPGPU0",
+                "name": "The Last of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/IbFikzclOuMdZtWRfW427B1vVbfVDNvE6qVoLdhFWJY.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/IbFikzclOuMdZtWRfW427B1vVbfVDNvE6qVoLdhFWJY.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/IbFikzclOuMdZtWRfW427B1vVbfVDNvE6qVoLdhFWJY.png"
+                },
+                "clanLevel": 1,
+                "stars": 1,
+                "destructionPercentage": 9.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260731T090212.000Z",
+            "teamSize": 40,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/OOp5JwF_nlCc9wyh-iobyMnpw49hasRod41tyT57SW8.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/OOp5JwF_nlCc9wyh-iobyMnpw49hasRod41tyT57SW8.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/OOp5JwF_nlCc9wyh-iobyMnpw49hasRod41tyT57SW8.png"
+                },
+                "clanLevel": 17,
+                "attacks": 61,
+                "stars": 117,
+                "destructionPercentage": 99.3,
+                "expEarned": 624
+            },
+            "opponent": {
+                "tag": "#2G0QLGY2Q",
+                "name": "LEGENDS",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/Fb1dVDlXEgwWSaR7LuPMPuJIRR-nOneu9eKDK_VrBXs.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/Fb1dVDlXEgwWSaR7LuPMPuJIRR-nOneu9eKDK_VrBXs.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/Fb1dVDlXEgwWSaR7LuPMPuJIRR-nOneu9eKDK_VrBXs.png"
+                },
+                "clanLevel": 21,
+                "stars": 95,
+                "destructionPercentage": 85.75
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260729T093749.000Z",
+            "teamSize": 40,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/OOp5JwF_nlCc9wyh-iobyMnpw49hasRod41tyT57SW8.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/OOp5JwF_nlCc9wyh-iobyMnpw49hasRod41tyT57SW8.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/OOp5JwF_nlCc9wyh-iobyMnpw49hasRod41tyT57SW8.png"
+                },
+                "clanLevel": 17,
+                "attacks": 70,
+                "stars": 120,
+                "destructionPercentage": 100.0,
+                "expEarned": 640
+            },
+            "opponent": {
+                "tag": "#2JU8JRU29",
+                "name": "1922 and 1974",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/Rtr5nc_iLri6Br3K4zNN2MuBZYekEWjAXj6FiDyWTsc.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/Rtr5nc_iLri6Br3K4zNN2MuBZYekEWjAXj6FiDyWTsc.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/Rtr5nc_iLri6Br3K4zNN2MuBZYekEWjAXj6FiDyWTsc.png"
+                },
+                "clanLevel": 16,
+                "stars": 119,
+                "destructionPercentage": 99.825
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260727T073037.000Z",
+            "teamSize": 40,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/OOp5JwF_nlCc9wyh-iobyMnpw49hasRod41tyT57SW8.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/OOp5JwF_nlCc9wyh-iobyMnpw49hasRod41tyT57SW8.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/OOp5JwF_nlCc9wyh-iobyMnpw49hasRod41tyT57SW8.png"
+                },
+                "clanLevel": 17,
+                "attacks": 72,
+                "stars": 120,
+                "destructionPercentage": 100.0,
+                "expEarned": 608
+            },
+            "opponent": {
+                "tag": "#2QR98RP9Y",
+                "name": "Clash of Tans",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/4Sf0arG0T6WX1m4PN-OCZUBMdiXnAn3HFbY4B52xA24.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/4Sf0arG0T6WX1m4PN-OCZUBMdiXnAn3HFbY4B52xA24.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/4Sf0arG0T6WX1m4PN-OCZUBMdiXnAn3HFbY4B52xA24.png"
+                },
+                "clanLevel": 23,
+                "stars": 89,
+                "destructionPercentage": 81.775
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260725T063018.000Z",
+            "teamSize": 40,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/OOp5JwF_nlCc9wyh-iobyMnpw49hasRod41tyT57SW8.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/OOp5JwF_nlCc9wyh-iobyMnpw49hasRod41tyT57SW8.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/OOp5JwF_nlCc9wyh-iobyMnpw49hasRod41tyT57SW8.png"
+                },
+                "clanLevel": 17,
+                "attacks": 66,
+                "stars": 120,
+                "destructionPercentage": 100.0,
+                "expEarned": 593
+            },
+            "opponent": {
+                "tag": "#9Q8Q9RRL",
+                "name": "Clan  #9Q8Q9RRL",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/Ecn4lAqIi9zjtNLiQTV9_f3-dBDaMykJGeHYJdxgfUA.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/Ecn4lAqIi9zjtNLiQTV9_f3-dBDaMykJGeHYJdxgfUA.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/Ecn4lAqIi9zjtNLiQTV9_f3-dBDaMykJGeHYJdxgfUA.png"
+                },
+                "clanLevel": 37,
+                "stars": 99,
+                "destructionPercentage": 89.9
+            }
+        },
+        {
+            "result": "tie",
+            "endTime": "20260722T065146.000Z",
+            "teamSize": 40,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/OOp5JwF_nlCc9wyh-iobyMnpw49hasRod41tyT57SW8.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/OOp5JwF_nlCc9wyh-iobyMnpw49hasRod41tyT57SW8.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/OOp5JwF_nlCc9wyh-iobyMnpw49hasRod41tyT57SW8.png"
+                },
+                "clanLevel": 17,
+                "attacks": 71,
+                "stars": 120,
+                "destructionPercentage": 100.0,
+                "expEarned": 554
+            },
+            "opponent": {
+                "tag": "#2J9VR89CJ",
+                "name": "\u65f6\u95f4\u5e1d\u56fd",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/CtsXNMny7eqhlVOIoUX2mPCIsgWfk1p5VIOAHRfcwLw.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/CtsXNMny7eqhlVOIoUX2mPCIsgWfk1p5VIOAHRfcwLw.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/CtsXNMny7eqhlVOIoUX2mPCIsgWfk1p5VIOAHRfcwLw.png"
+                },
+                "clanLevel": 16,
+                "stars": 120,
+                "destructionPercentage": 100.0
+            }
+        },
+        {
+            "result": "tie",
+            "endTime": "20260720T073641.000Z",
+            "teamSize": 40,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/OOp5JwF_nlCc9wyh-iobyMnpw49hasRod41tyT57SW8.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/OOp5JwF_nlCc9wyh-iobyMnpw49hasRod41tyT57SW8.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/OOp5JwF_nlCc9wyh-iobyMnpw49hasRod41tyT57SW8.png"
+                },
+                "clanLevel": 17,
+                "attacks": 66,
+                "stars": 120,
+                "destructionPercentage": 100.0,
+                "expEarned": 588
+            },
+            "opponent": {
+                "tag": "#908C888C",
+                "name": "Exclusive Exile",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/IRTsZB50duLPTFzCE69RLUUyl6FckhqItSXYG7A2xcc.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/IRTsZB50duLPTFzCE69RLUUyl6FckhqItSXYG7A2xcc.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/IRTsZB50duLPTFzCE69RLUUyl6FckhqItSXYG7A2xcc.png"
+                },
+                "clanLevel": 23,
+                "stars": 120,
+                "destructionPercentage": 100.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260718T072446.000Z",
+            "teamSize": 35,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/OOp5JwF_nlCc9wyh-iobyMnpw49hasRod41tyT57SW8.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/OOp5JwF_nlCc9wyh-iobyMnpw49hasRod41tyT57SW8.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/OOp5JwF_nlCc9wyh-iobyMnpw49hasRod41tyT57SW8.png"
+                },
+                "clanLevel": 17,
+                "attacks": 59,
+                "stars": 105,
+                "destructionPercentage": 100.0,
+                "expEarned": 558
+            },
+            "opponent": {
+                "tag": "#2YVLR88VV",
+                "name": "AE C\u00e2y M\u00edt !",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/4EMdNGoG3foSQIfsOCaNOrqm_95ip636ugmZOTXCvS8.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/4EMdNGoG3foSQIfsOCaNOrqm_95ip636ugmZOTXCvS8.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/4EMdNGoG3foSQIfsOCaNOrqm_95ip636ugmZOTXCvS8.png"
+                },
+                "clanLevel": 23,
+                "stars": 63,
+                "destructionPercentage": 74.685715
+            }
+        },
+        {
+            "result": "tie",
+            "endTime": "20260715T085924.000Z",
+            "teamSize": 40,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/OOp5JwF_nlCc9wyh-iobyMnpw49hasRod41tyT57SW8.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/OOp5JwF_nlCc9wyh-iobyMnpw49hasRod41tyT57SW8.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/OOp5JwF_nlCc9wyh-iobyMnpw49hasRod41tyT57SW8.png"
+                },
+                "clanLevel": 17,
+                "attacks": 65,
+                "stars": 120,
+                "destructionPercentage": 100.0,
+                "expEarned": 555
+            },
+            "opponent": {
+                "tag": "#QP2CLCYR",
+                "name": "vixz16",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/qZvw0-uSSJEZEuoDbEPHFl6a0tbyqZqnBU7iP3CniB0.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/qZvw0-uSSJEZEuoDbEPHFl6a0tbyqZqnBU7iP3CniB0.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/qZvw0-uSSJEZEuoDbEPHFl6a0tbyqZqnBU7iP3CniB0.png"
+                },
+                "clanLevel": 19,
+                "stars": 120,
+                "destructionPercentage": 100.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260713T084705.000Z",
+            "teamSize": 35,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/OOp5JwF_nlCc9wyh-iobyMnpw49hasRod41tyT57SW8.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/OOp5JwF_nlCc9wyh-iobyMnpw49hasRod41tyT57SW8.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/OOp5JwF_nlCc9wyh-iobyMnpw49hasRod41tyT57SW8.png"
+                },
+                "clanLevel": 17,
+                "attacks": 62,
+                "stars": 105,
+                "destructionPercentage": 100.0,
+                "expEarned": 542
+            },
+            "opponent": {
+                "tag": "#2QRRRPLJ2",
+                "name": "CoRpOrA\u00e7\u00c3oPOWER",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/SuTzOF0VOMExhNuI6IKyeTMsCFca_LXyoV1JikT7fsE.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/SuTzOF0VOMExhNuI6IKyeTMsCFca_LXyoV1JikT7fsE.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/SuTzOF0VOMExhNuI6IKyeTMsCFca_LXyoV1JikT7fsE.png"
+                },
+                "clanLevel": 22,
+                "stars": 90,
+                "destructionPercentage": 91.057144
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260710T114222.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 1,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/OOp5JwF_nlCc9wyh-iobyMnpw49hasRod41tyT57SW8.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/OOp5JwF_nlCc9wyh-iobyMnpw49hasRod41tyT57SW8.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/OOp5JwF_nlCc9wyh-iobyMnpw49hasRod41tyT57SW8.png"
+                },
+                "clanLevel": 17,
+                "attacks": 210,
+                "stars": 619,
+                "destructionPercentage": 670.5333,
+                "expEarned": 0
+            },
+            "opponent": {
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+                },
+                "clanLevel": 0,
+                "stars": 507,
+                "destructionPercentage": 0.0
+            }
+        },
+        {
+            "result": "tie",
+            "endTime": "20260630T081234.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png"
+                },
+                "clanLevel": 16,
+                "attacks": 49,
+                "stars": 90,
+                "destructionPercentage": 100.0,
+                "expEarned": 421
+            },
+            "opponent": {
+                "tag": "#2RCCR0QYG",
+                "name": "MI MARATHI",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/JU8DQXPpULZ51Ry8FNOrXUtvXlWl5NbkZ6WZzKCgWwc.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/JU8DQXPpULZ51Ry8FNOrXUtvXlWl5NbkZ6WZzKCgWwc.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/JU8DQXPpULZ51Ry8FNOrXUtvXlWl5NbkZ6WZzKCgWwc.png"
+                },
+                "clanLevel": 20,
+                "stars": 90,
+                "destructionPercentage": 100.0
+            }
+        },
+        {
+            "result": "tie",
+            "endTime": "20260628T083337.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png"
+                },
+                "clanLevel": 16,
+                "attacks": 51,
+                "stars": 90,
+                "destructionPercentage": 100.0,
+                "expEarned": 432
+            },
+            "opponent": {
+                "tag": "#2J0PYYJ8C",
+                "name": "VI\u1ec6T NAM -Top1-",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/7TKwuNqwjHJqXG_9_GBSWBEwHaUb1hVXu6Mas-v30Vo.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/7TKwuNqwjHJqXG_9_GBSWBEwHaUb1hVXu6Mas-v30Vo.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/7TKwuNqwjHJqXG_9_GBSWBEwHaUb1hVXu6Mas-v30Vo.png"
+                },
+                "clanLevel": 16,
+                "stars": 90,
+                "destructionPercentage": 100.0
+            }
+        },
+        {
+            "result": null,
+            "endTime": "20260625T102235.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 1,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png"
+                },
+                "clanLevel": 16,
+                "attacks": 206,
+                "stars": 570,
+                "destructionPercentage": 646.0,
+                "expEarned": 0
+            },
+            "opponent": {
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+                },
+                "clanLevel": 0,
+                "stars": 504,
+                "destructionPercentage": 0.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260614T093807.000Z",
+            "teamSize": 25,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png"
+                },
+                "clanLevel": 16,
+                "attacks": 47,
+                "stars": 75,
+                "destructionPercentage": 100.0,
+                "expEarned": 403
+            },
+            "opponent": {
+                "tag": "#2G2GC9YYU",
+                "name": "DARK STAR PINOY",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ekMDzgahSWmNLMrpF6E-8s-hawDjP5Fg21eIdzdXDrs.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ekMDzgahSWmNLMrpF6E-8s-hawDjP5Fg21eIdzdXDrs.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ekMDzgahSWmNLMrpF6E-8s-hawDjP5Fg21eIdzdXDrs.png"
+                },
+                "clanLevel": 17,
+                "stars": 73,
+                "destructionPercentage": 98.76
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260610T093422.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 1,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png"
+                },
+                "clanLevel": 16,
+                "attacks": 208,
+                "stars": 621,
+                "destructionPercentage": 659.26666,
+                "expEarned": 0
+            },
+            "opponent": {
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+                },
+                "clanLevel": 0,
+                "stars": 485,
+                "destructionPercentage": 0.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260601T083634.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png"
+                },
+                "clanLevel": 16,
+                "attacks": 50,
+                "stars": 90,
+                "destructionPercentage": 100.0,
+                "expEarned": 461
+            },
+            "opponent": {
+                "tag": "#2GL2QU8PG",
+                "name": "JANDA GENIT",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/KGW0i6DAPp9vgSxwaGRWjqg6Rg4uoVPBybCQs8-YFT4.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/KGW0i6DAPp9vgSxwaGRWjqg6Rg4uoVPBybCQs8-YFT4.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/KGW0i6DAPp9vgSxwaGRWjqg6Rg4uoVPBybCQs8-YFT4.png"
+                },
+                "clanLevel": 17,
+                "stars": 76,
+                "destructionPercentage": 91.066666
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260530T092919.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png"
+                },
+                "clanLevel": 16,
+                "attacks": 48,
+                "stars": 90,
+                "destructionPercentage": 100.0,
+                "expEarned": 456
+            },
+            "opponent": {
+                "tag": "#2LP0PP2Q0",
+                "name": "BD SUPER POWER",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/F--fyo2xgvdAruKPC6dLRTBaHGcv4g7i9Y-d23mhkUI.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/F--fyo2xgvdAruKPC6dLRTBaHGcv4g7i9Y-d23mhkUI.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/F--fyo2xgvdAruKPC6dLRTBaHGcv4g7i9Y-d23mhkUI.png"
+                },
+                "clanLevel": 12,
+                "stars": 18,
+                "destructionPercentage": 24.5
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260528T092703.000Z",
+            "teamSize": 25,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png"
+                },
+                "clanLevel": 16,
+                "attacks": 44,
+                "stars": 75,
+                "destructionPercentage": 100.0,
+                "expEarned": 405
+            },
+            "opponent": {
+                "tag": "#2RYUR00QR",
+                "name": "TROY",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/pTnIdmH4SwCG32SYT42sJNCh1zmTMxGE5rVcn2TiEl0.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/pTnIdmH4SwCG32SYT42sJNCh1zmTMxGE5rVcn2TiEl0.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/pTnIdmH4SwCG32SYT42sJNCh1zmTMxGE5rVcn2TiEl0.png"
+                },
+                "clanLevel": 19,
+                "stars": 69,
+                "destructionPercentage": 94.8
+            }
+        },
+        {
+            "result": "lose",
+            "endTime": "20260526T092448.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png"
+                },
+                "clanLevel": 16,
+                "attacks": 51,
+                "stars": 89,
+                "destructionPercentage": 99.73333,
+                "expEarned": 419
+            },
+            "opponent": {
+                "tag": "#2GCLLGCVY",
+                "name": "\u0623\u0633\u0627\u0637\u064a\u0631 \u0627\u0644\u0639\u0631\u0628",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/a75gMH0xFcq902gwIjRXNYYDQBN1LD-9Xe2EN5Tjzlc.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/a75gMH0xFcq902gwIjRXNYYDQBN1LD-9Xe2EN5Tjzlc.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/a75gMH0xFcq902gwIjRXNYYDQBN1LD-9Xe2EN5Tjzlc.png"
+                },
+                "clanLevel": 17,
+                "stars": 90,
+                "destructionPercentage": 100.0
+            }
+        },
+        {
+            "result": "tie",
+            "endTime": "20260524T092615.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png"
+                },
+                "clanLevel": 16,
+                "attacks": 56,
+                "stars": 90,
+                "destructionPercentage": 100.0,
+                "expEarned": 415
+            },
+            "opponent": {
+                "tag": "#2JY89GCU9",
+                "name": "\u0627\u0644\u0646\u062e\u0628\u0629",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/bhqsfxXhxFE6WYknVY9keiZNRrkW2El2p3NX2J2KGLw.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/bhqsfxXhxFE6WYknVY9keiZNRrkW2El2p3NX2J2KGLw.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/bhqsfxXhxFE6WYknVY9keiZNRrkW2El2p3NX2J2KGLw.png"
+                },
+                "clanLevel": 15,
+                "stars": 90,
+                "destructionPercentage": 100.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260522T065010.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png"
+                },
+                "clanLevel": 16,
+                "attacks": 48,
+                "stars": 89,
+                "destructionPercentage": 99.6,
+                "expEarned": 457
+            },
+            "opponent": {
+                "tag": "#2C0GCJ20P",
+                "name": "GuloGulo Gang",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/PMPiiM5FufBbaySndnh6hK018TpBqt_k1XSTg3sdVMk.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/PMPiiM5FufBbaySndnh6hK018TpBqt_k1XSTg3sdVMk.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/PMPiiM5FufBbaySndnh6hK018TpBqt_k1XSTg3sdVMk.png"
+                },
+                "clanLevel": 13,
+                "stars": 59,
+                "destructionPercentage": 70.26667
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260520T073615.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png"
+                },
+                "clanLevel": 16,
+                "attacks": 56,
+                "stars": 90,
+                "destructionPercentage": 100.0,
+                "expEarned": 462
+            },
+            "opponent": {
+                "tag": "#2RGL08QGR",
+                "name": "Black Olympus",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ud4kFRp5UD1V93UlUB0aN6o43DCBBHmgVjORjeU_dsw.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ud4kFRp5UD1V93UlUB0aN6o43DCBBHmgVjORjeU_dsw.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ud4kFRp5UD1V93UlUB0aN6o43DCBBHmgVjORjeU_dsw.png"
+                },
+                "clanLevel": 17,
+                "stars": 74,
+                "destructionPercentage": 86.8
+            }
+        },
+        {
+            "result": "tie",
+            "endTime": "20260518T080120.000Z",
+            "teamSize": 35,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png"
+                },
+                "clanLevel": 16,
+                "attacks": 63,
+                "stars": 105,
+                "destructionPercentage": 100.0,
+                "expEarned": 463
+            },
+            "opponent": {
+                "tag": "#2QQ9RCPUR",
+                "name": "BALDES\u2022ID",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/dtf0IZVH3vXqUymB2P3-DFfvpr4UcD7FVP_Bt7886Ag.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/dtf0IZVH3vXqUymB2P3-DFfvpr4UcD7FVP_Bt7886Ag.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/dtf0IZVH3vXqUymB2P3-DFfvpr4UcD7FVP_Bt7886Ag.png"
+                },
+                "clanLevel": 19,
+                "stars": 105,
+                "destructionPercentage": 100.0
+            }
+        },
+        {
+            "result": "tie",
+            "endTime": "20260515T111729.000Z",
+            "teamSize": 35,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/1mIDnEotV23jKw3RE4WBukECZ-0i-9i8FhaEJRgjRWY.png"
+                },
+                "clanLevel": 16,
+                "attacks": 64,
+                "stars": 105,
+                "destructionPercentage": 100.0,
+                "expEarned": 474
+            },
+            "opponent": {
+                "tag": "#2J8UQYR98",
+                "name": "Toxic Murrieta",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/jp1tzVVB4eWljceA62gUJF4FUX4Ez_bQrTY4mATPEnM.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/jp1tzVVB4eWljceA62gUJF4FUX4Ez_bQrTY4mATPEnM.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/jp1tzVVB4eWljceA62gUJF4FUX4Ez_bQrTY4mATPEnM.png"
+                },
+                "clanLevel": 17,
+                "stars": 105,
+                "destructionPercentage": 100.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260513T082004.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/CM6zQ0dRkESMqDRYmjNkaNtAkkO8xkczg2dFCLDLZ5M.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/CM6zQ0dRkESMqDRYmjNkaNtAkkO8xkczg2dFCLDLZ5M.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/CM6zQ0dRkESMqDRYmjNkaNtAkkO8xkczg2dFCLDLZ5M.png"
+                },
+                "clanLevel": 15,
+                "attacks": 55,
+                "stars": 90,
+                "destructionPercentage": 100.0,
+                "expEarned": 447
+            },
+            "opponent": {
+                "tag": "#YUCJ20J8",
+                "name": "Pak All Stars",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/KBQetmOcklNjegTNOMad4oHJZnkTR7s90GvTW0KoQTI.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/KBQetmOcklNjegTNOMad4oHJZnkTR7s90GvTW0KoQTI.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/KBQetmOcklNjegTNOMad4oHJZnkTR7s90GvTW0KoQTI.png"
+                },
+                "clanLevel": 24,
+                "stars": 78,
+                "destructionPercentage": 94.26667
+            }
+        },
+        {
+            "result": null,
+            "endTime": "20260510T084407.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 1,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/CM6zQ0dRkESMqDRYmjNkaNtAkkO8xkczg2dFCLDLZ5M.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/CM6zQ0dRkESMqDRYmjNkaNtAkkO8xkczg2dFCLDLZ5M.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/CM6zQ0dRkESMqDRYmjNkaNtAkkO8xkczg2dFCLDLZ5M.png"
+                },
+                "clanLevel": 15,
+                "attacks": 201,
+                "stars": 546,
+                "destructionPercentage": 618.3333,
+                "expEarned": 0
+            },
+            "opponent": {
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+                },
+                "clanLevel": 0,
+                "stars": 506,
+                "destructionPercentage": 0.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260430T092404.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/lZVVzOvWFvo_CGOwg46m_Ax6BDhFlI7Zn-cUZ09xmjU.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/lZVVzOvWFvo_CGOwg46m_Ax6BDhFlI7Zn-cUZ09xmjU.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/lZVVzOvWFvo_CGOwg46m_Ax6BDhFlI7Zn-cUZ09xmjU.png"
+                },
+                "clanLevel": 15,
+                "attacks": 45,
+                "stars": 90,
+                "destructionPercentage": 100.0,
+                "expEarned": 445
+            },
+            "opponent": {
+                "tag": "#2JYPVRCVP",
+                "name": "War Game",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/ZO2aapx4XaNwUURlhZi3jUflC2LO7nrVx2S10lT7cA0.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/ZO2aapx4XaNwUURlhZi3jUflC2LO7nrVx2S10lT7cA0.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/ZO2aapx4XaNwUURlhZi3jUflC2LO7nrVx2S10lT7cA0.png"
+                },
+                "clanLevel": 15,
+                "stars": 82,
+                "destructionPercentage": 96.333336
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260428T072802.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/lZVVzOvWFvo_CGOwg46m_Ax6BDhFlI7Zn-cUZ09xmjU.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/lZVVzOvWFvo_CGOwg46m_Ax6BDhFlI7Zn-cUZ09xmjU.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/lZVVzOvWFvo_CGOwg46m_Ax6BDhFlI7Zn-cUZ09xmjU.png"
+                },
+                "clanLevel": 15,
+                "attacks": 47,
+                "stars": 88,
+                "destructionPercentage": 99.23333,
+                "expEarned": 453
+            },
+            "opponent": {
+                "tag": "#2GPCL2QPU",
+                "name": "MAGA",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/cWALcvn8_OemsVg6REqa-DbsyMXrJdbS8GUBrKRIdD8.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/cWALcvn8_OemsVg6REqa-DbsyMXrJdbS8GUBrKRIdD8.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/cWALcvn8_OemsVg6REqa-DbsyMXrJdbS8GUBrKRIdD8.png"
+                },
+                "clanLevel": 15,
+                "stars": 77,
+                "destructionPercentage": 92.13333
+            }
+        },
+        {
+            "result": "tie",
+            "endTime": "20260426T025716.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/lZVVzOvWFvo_CGOwg46m_Ax6BDhFlI7Zn-cUZ09xmjU.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/lZVVzOvWFvo_CGOwg46m_Ax6BDhFlI7Zn-cUZ09xmjU.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/lZVVzOvWFvo_CGOwg46m_Ax6BDhFlI7Zn-cUZ09xmjU.png"
+                },
+                "clanLevel": 15,
+                "attacks": 51,
+                "stars": 90,
+                "destructionPercentage": 100.0,
+                "expEarned": 382
+            },
+            "opponent": {
+                "tag": "#QU2900C0",
+                "name": "BD DRAGON",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/_Jk39alxhlgMXcbcqeSrgyq1wTR6XrKYp0Fqs0KcqmM.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/_Jk39alxhlgMXcbcqeSrgyq1wTR6XrKYp0Fqs0KcqmM.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/_Jk39alxhlgMXcbcqeSrgyq1wTR6XrKYp0Fqs0KcqmM.png"
+                },
+                "clanLevel": 23,
+                "stars": 90,
+                "destructionPercentage": 100.0
+            }
+        },
+        {
+            "result": "tie",
+            "endTime": "20260423T083443.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/lZVVzOvWFvo_CGOwg46m_Ax6BDhFlI7Zn-cUZ09xmjU.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/lZVVzOvWFvo_CGOwg46m_Ax6BDhFlI7Zn-cUZ09xmjU.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/lZVVzOvWFvo_CGOwg46m_Ax6BDhFlI7Zn-cUZ09xmjU.png"
+                },
+                "clanLevel": 15,
+                "attacks": 52,
+                "stars": 90,
+                "destructionPercentage": 100.0,
+                "expEarned": 414
+            },
+            "opponent": {
+                "tag": "#2J09UV0RP",
+                "name": "Triage Titans",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/KMoak8qV30x9ZqanmMcKfibWymtgkw3Bd53cslt6yvU.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/KMoak8qV30x9ZqanmMcKfibWymtgkw3Bd53cslt6yvU.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/KMoak8qV30x9ZqanmMcKfibWymtgkw3Bd53cslt6yvU.png"
+                },
+                "clanLevel": 14,
+                "stars": 90,
+                "destructionPercentage": 100.0
+            }
+        },
+        {
+            "result": "tie",
+            "endTime": "20260421T064608.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/lZVVzOvWFvo_CGOwg46m_Ax6BDhFlI7Zn-cUZ09xmjU.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/lZVVzOvWFvo_CGOwg46m_Ax6BDhFlI7Zn-cUZ09xmjU.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/lZVVzOvWFvo_CGOwg46m_Ax6BDhFlI7Zn-cUZ09xmjU.png"
+                },
+                "clanLevel": 15,
+                "attacks": 51,
+                "stars": 90,
+                "destructionPercentage": 100.0,
+                "expEarned": 407
+            },
+            "opponent": {
+                "tag": "#2G908J0PY",
+                "name": "WARFURY",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/fhsXiumqOwUEEE-s1hc8RcUCjFckIsjcbpuM4gxwovs.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/fhsXiumqOwUEEE-s1hc8RcUCjFckIsjcbpuM4gxwovs.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/fhsXiumqOwUEEE-s1hc8RcUCjFckIsjcbpuM4gxwovs.png"
+                },
+                "clanLevel": 14,
+                "stars": 90,
+                "destructionPercentage": 100.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260419T071105.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/lZVVzOvWFvo_CGOwg46m_Ax6BDhFlI7Zn-cUZ09xmjU.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/lZVVzOvWFvo_CGOwg46m_Ax6BDhFlI7Zn-cUZ09xmjU.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/lZVVzOvWFvo_CGOwg46m_Ax6BDhFlI7Zn-cUZ09xmjU.png"
+                },
+                "clanLevel": 15,
+                "attacks": 52,
+                "stars": 90,
+                "destructionPercentage": 100.0,
+                "expEarned": 454
+            },
+            "opponent": {
+                "tag": "#2RYVCVCUR",
+                "name": "Tower 0f God",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/Mz8-gVW1XYlaqRHxukxsj6DHFZq2IWCaPfjCc1bDiKU.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/Mz8-gVW1XYlaqRHxukxsj6DHFZq2IWCaPfjCc1bDiKU.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/Mz8-gVW1XYlaqRHxukxsj6DHFZq2IWCaPfjCc1bDiKU.png"
+                },
+                "clanLevel": 15,
+                "stars": 80,
+                "destructionPercentage": 94.2
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260416T071041.000Z",
+            "teamSize": 35,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/lZVVzOvWFvo_CGOwg46m_Ax6BDhFlI7Zn-cUZ09xmjU.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/lZVVzOvWFvo_CGOwg46m_Ax6BDhFlI7Zn-cUZ09xmjU.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/lZVVzOvWFvo_CGOwg46m_Ax6BDhFlI7Zn-cUZ09xmjU.png"
+                },
+                "clanLevel": 15,
+                "attacks": 54,
+                "stars": 105,
+                "destructionPercentage": 100.0,
+                "expEarned": 510
+            },
+            "opponent": {
+                "tag": "#2RYP22VPQ",
+                "name": "Gujarat Lions",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/QW6RBPkDTIjMdss5K45nPZXeQpuc-ib_FM0Xaf_TB6k.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/QW6RBPkDTIjMdss5K45nPZXeQpuc-ib_FM0Xaf_TB6k.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/QW6RBPkDTIjMdss5K45nPZXeQpuc-ib_FM0Xaf_TB6k.png"
+                },
+                "clanLevel": 19,
+                "stars": 81,
+                "destructionPercentage": 85.34286
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260414T063130.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/lZVVzOvWFvo_CGOwg46m_Ax6BDhFlI7Zn-cUZ09xmjU.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/lZVVzOvWFvo_CGOwg46m_Ax6BDhFlI7Zn-cUZ09xmjU.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/lZVVzOvWFvo_CGOwg46m_Ax6BDhFlI7Zn-cUZ09xmjU.png"
+                },
+                "clanLevel": 15,
+                "attacks": 52,
+                "stars": 90,
+                "destructionPercentage": 100.0,
+                "expEarned": 447
+            },
+            "opponent": {
+                "tag": "#9J2UGJ0P",
+                "name": "NEW SARONDE",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/qFYirjXD74t7DBD6dZgwcfzEesyYig87FUsaC5YzJHU.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/qFYirjXD74t7DBD6dZgwcfzEesyYig87FUsaC5YzJHU.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/qFYirjXD74t7DBD6dZgwcfzEesyYig87FUsaC5YzJHU.png"
+                },
+                "clanLevel": 23,
+                "stars": 83,
+                "destructionPercentage": 95.833336
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260410T103254.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 1,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/lZVVzOvWFvo_CGOwg46m_Ax6BDhFlI7Zn-cUZ09xmjU.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/lZVVzOvWFvo_CGOwg46m_Ax6BDhFlI7Zn-cUZ09xmjU.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/lZVVzOvWFvo_CGOwg46m_Ax6BDhFlI7Zn-cUZ09xmjU.png"
+                },
+                "clanLevel": 15,
+                "attacks": 201,
+                "stars": 528,
+                "destructionPercentage": 582.6667,
+                "expEarned": 0
+            },
+            "opponent": {
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+                },
+                "clanLevel": 0,
+                "stars": 381,
+                "destructionPercentage": 0.0
+            }
+        },
+        {
+            "result": "tie",
+            "endTime": "20260401T033235.000Z",
+            "teamSize": 35,
+            "attacksPerMember": 2,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/lZVVzOvWFvo_CGOwg46m_Ax6BDhFlI7Zn-cUZ09xmjU.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/lZVVzOvWFvo_CGOwg46m_Ax6BDhFlI7Zn-cUZ09xmjU.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/lZVVzOvWFvo_CGOwg46m_Ax6BDhFlI7Zn-cUZ09xmjU.png"
+                },
+                "clanLevel": 15,
+                "attacks": 61,
+                "stars": 105,
+                "destructionPercentage": 100.0,
+                "expEarned": 462
+            },
+            "opponent": {
+                "tag": "#2J2J2UVGY",
+                "name": "AKATSUKI",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/4nd0yZzXLrSrqDAn9wQRHDtofRH0UkAcdrmQHCTuaGg.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/4nd0yZzXLrSrqDAn9wQRHDtofRH0UkAcdrmQHCTuaGg.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/4nd0yZzXLrSrqDAn9wQRHDtofRH0UkAcdrmQHCTuaGg.png"
+                },
+                "clanLevel": 16,
+                "stars": 105,
+                "destructionPercentage": 100.0
+            }
+        },
+        {
+            "result": "win",
+            "endTime": "20260310T100908.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 1,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/vjoWLjuHv9UJTcm0BTzUhkyfyMT0IVZIW0ZHEm_ZNT4.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/vjoWLjuHv9UJTcm0BTzUhkyfyMT0IVZIW0ZHEm_ZNT4.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/vjoWLjuHv9UJTcm0BTzUhkyfyMT0IVZIW0ZHEm_ZNT4.png"
+                },
+                "clanLevel": 14,
+                "attacks": 197,
+                "stars": 591,
+                "destructionPercentage": 624.06665,
+                "expEarned": 0
+            },
+            "opponent": {
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+                },
+                "clanLevel": 0,
+                "stars": 339,
+                "destructionPercentage": 0.0
+            }
+        },
+        {
+            "result": null,
+            "endTime": "20260210T055957.000Z",
+            "teamSize": 30,
+            "attacksPerMember": 1,
+            "battleModifier": "none",
+            "clan": {
+                "tag": "#2RV22C9L9",
+                "name": "The Last Of Us",
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/vjoWLjuHv9UJTcm0BTzUhkyfyMT0IVZIW0ZHEm_ZNT4.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/vjoWLjuHv9UJTcm0BTzUhkyfyMT0IVZIW0ZHEm_ZNT4.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/vjoWLjuHv9UJTcm0BTzUhkyfyMT0IVZIW0ZHEm_ZNT4.png"
+                },
+                "clanLevel": 14,
+                "attacks": 178,
+                "stars": 467,
+                "destructionPercentage": 520.26666,
+                "expEarned": 0
+            },
+            "opponent": {
+                "badgeUrls": {
+                    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+                    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+                },
+                "clanLevel": 0,
+                "stars": 370,
+                "destructionPercentage": 0.0
+            }
+        }
+    ],
+    "paging": {
+        "cursors": {}
+    }
+}

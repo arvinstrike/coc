@@ -1,0 +1,529 @@
+{
+    "state": "preparation",
+    "teamSize": 35,
+    "attacksPerMember": 2,
+    "battleModifier": "none",
+    "preparationStartTime": "20261009T163003.000Z",
+    "startTime": "20261010T153003.000Z",
+    "endTime": "20261011T153003.000Z",
+    "clan": {
+        "tag": "#2RV22C9L9",
+        "name": "The Last Of Us",
+        "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/8igLsY7rfmiXhdf5WtIc90P4xRhZebiIM7x-pdWG0WU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/8igLsY7rfmiXhdf5WtIc90P4xRhZebiIM7x-pdWG0WU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/8igLsY7rfmiXhdf5WtIc90P4xRhZebiIM7x-pdWG0WU.png"
+        },
+        "clanLevel": 19,
+        "attacks": 0,
+        "stars": 0,
+        "destructionPercentage": 0.0,
+        "members": [
+            {
+                "tag": "#22Y8Y0JRC",
+                "name": "Renan13",
+                "townhallLevel": 18,
+                "mapPosition": 9,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#LLPQQLP2L",
+                "name": "Anthocyanin.",
+                "townhallLevel": 17,
+                "mapPosition": 27,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#8YQ0YCUQ8",
+                "name": "gunjit",
+                "townhallLevel": 18,
+                "mapPosition": 5,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QJRGQUPUY",
+                "name": "Dismalsneeze11",
+                "townhallLevel": 17,
+                "mapPosition": 29,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#LUVQRC2GP",
+                "name": "Trix",
+                "townhallLevel": 17,
+                "mapPosition": 21,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#G2R0U0UQ0",
+                "name": "CannonBolt",
+                "townhallLevel": 17,
+                "mapPosition": 26,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#2CRV0RUYQ",
+                "name": "Safiq",
+                "townhallLevel": 18,
+                "mapPosition": 7,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#8YQ99GPQ",
+                "name": "Pizza Time",
+                "townhallLevel": 17,
+                "mapPosition": 22,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#9JLGPUJ22",
+                "name": "Millie",
+                "townhallLevel": 18,
+                "mapPosition": 6,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#PLJV9CGL",
+                "name": "matthew",
+                "townhallLevel": 18,
+                "mapPosition": 14,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#2RJUPCYCR",
+                "name": "SHOVON",
+                "townhallLevel": 16,
+                "mapPosition": 35,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#LG0YVJQQ9",
+                "name": "\u4e94\u6761 \u609f",
+                "townhallLevel": 18,
+                "mapPosition": 18,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#GYQ8LY8CQ",
+                "name": "lv91_guna",
+                "townhallLevel": 18,
+                "mapPosition": 13,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#9PUVU99J9",
+                "name": "warrior",
+                "townhallLevel": 18,
+                "mapPosition": 16,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QCGULR0YL",
+                "name": "AbuQ2011",
+                "townhallLevel": 17,
+                "mapPosition": 34,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#Y09UUGVGL",
+                "name": "abhishek is don",
+                "townhallLevel": 18,
+                "mapPosition": 3,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#22Y9RQG2L",
+                "name": "Clasher",
+                "townhallLevel": 17,
+                "mapPosition": 25,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#9CQJU88GP",
+                "name": "warrior",
+                "townhallLevel": 17,
+                "mapPosition": 30,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#PPUVUUPLJ",
+                "name": "SMAKSH9738",
+                "townhallLevel": 18,
+                "mapPosition": 11,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#PR9CYY2CR",
+                "name": "DarkDifusion",
+                "townhallLevel": 17,
+                "mapPosition": 28,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#9LPPLPC0Y",
+                "name": "\u26a1\u5200\u4e47\u4e02\u3112\u5c3a\u53e3\u311a\u4e47\u5c3a\u26a1",
+                "townhallLevel": 17,
+                "mapPosition": 19,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#2JRCP0V8P",
+                "name": "Mraz",
+                "townhallLevel": 17,
+                "mapPosition": 23,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QRYV02R9",
+                "name": "Camper",
+                "townhallLevel": 18,
+                "mapPosition": 8,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QJUVC0RPU",
+                "name": "Mayonnaise",
+                "townhallLevel": 17,
+                "mapPosition": 32,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#GJVVP8R0G",
+                "name": "Molly\u2077",
+                "townhallLevel": 17,
+                "mapPosition": 33,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#8LVUCRVQP",
+                "name": "XGAMER",
+                "townhallLevel": 17,
+                "mapPosition": 31,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#YQGYVUJYG",
+                "name": "WOULD YOU LOSE?",
+                "townhallLevel": 18,
+                "mapPosition": 15,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#GY0PJY2YP",
+                "name": "sparx sandip",
+                "townhallLevel": 18,
+                "mapPosition": 17,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#2U2JJ2UVC",
+                "name": "Arvin",
+                "townhallLevel": 18,
+                "mapPosition": 10,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#8Q0C2V9GR",
+                "name": "LeGEnDs AK07",
+                "townhallLevel": 17,
+                "mapPosition": 24,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#GQ0UJU8RJ",
+                "name": "Dex",
+                "townhallLevel": 18,
+                "mapPosition": 12,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#GRP9808RJ",
+                "name": "MistaH Ghost",
+                "townhallLevel": 18,
+                "mapPosition": 1,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#PP2C29LCJ",
+                "name": "\u274cphilip\u274c",
+                "townhallLevel": 18,
+                "mapPosition": 4,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#88LL09VGR",
+                "name": "Captain cool",
+                "townhallLevel": 18,
+                "mapPosition": 2,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#89GR82RPQ",
+                "name": "Meep",
+                "townhallLevel": 17,
+                "mapPosition": 20,
+                "opponentAttacks": 0
+            }
+        ]
+    },
+    "opponent": {
+        "tag": "#VJYG2QL8",
+        "name": "765\u30d7\u30ed",
+        "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/pTnIdmH4SwCG32SYT42sJNCh1zmTMxGE5rVcn2TiEl0.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/pTnIdmH4SwCG32SYT42sJNCh1zmTMxGE5rVcn2TiEl0.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/pTnIdmH4SwCG32SYT42sJNCh1zmTMxGE5rVcn2TiEl0.png"
+        },
+        "clanLevel": 19,
+        "attacks": 0,
+        "stars": 0,
+        "destructionPercentage": 0.0,
+        "members": [
+            {
+                "tag": "#QQ2RGCCJL",
+                "name": "Deserter",
+                "townhallLevel": 17,
+                "mapPosition": 30,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QRQY0C0RP",
+                "name": "Graverobber",
+                "townhallLevel": 17,
+                "mapPosition": 22,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#G098VLQ2L",
+                "name": "Lumberjack",
+                "townhallLevel": 17,
+                "mapPosition": 19,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#882Y9RUC0",
+                "name": "Swordmaster",
+                "townhallLevel": 18,
+                "mapPosition": 2,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#8QPQ8QG98",
+                "name": "Hunter",
+                "townhallLevel": 18,
+                "mapPosition": 9,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#Y99L02LPU",
+                "name": "Raider",
+                "townhallLevel": 18,
+                "mapPosition": 15,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QV2LCVQV9",
+                "name": "Belly Dancer",
+                "townhallLevel": 17,
+                "mapPosition": 24,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QVG8GPRC2",
+                "name": "Poacher",
+                "townhallLevel": 17,
+                "mapPosition": 33,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#90JQ9YL8P",
+                "name": "Witchhunter",
+                "townhallLevel": 18,
+                "mapPosition": 11,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#G0RCJPPV0",
+                "name": "Indebted",
+                "townhallLevel": 12,
+                "mapPosition": 34,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#R8PPVC8QP",
+                "name": "Rachegeist",
+                "townhallLevel": 3,
+                "mapPosition": 35,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#9L8RYLU0",
+                "name": "Hedge Knight",
+                "townhallLevel": 18,
+                "mapPosition": 1,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QVPGYC2UQ",
+                "name": "Anatomist",
+                "townhallLevel": 17,
+                "mapPosition": 18,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QVPLRPQCL",
+                "name": "Orc Slayer",
+                "townhallLevel": 17,
+                "mapPosition": 28,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#G0UVVL898",
+                "name": "King's Guard",
+                "townhallLevel": 18,
+                "mapPosition": 16,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#8RPQUCQJR",
+                "name": "Beast Slayer",
+                "townhallLevel": 18,
+                "mapPosition": 10,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#8R00QG9PC",
+                "name": "Oathtaker",
+                "townhallLevel": 18,
+                "mapPosition": 5,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#G2LVQRCJ0",
+                "name": "Bowyer",
+                "townhallLevel": 17,
+                "mapPosition": 20,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#G282R99LV",
+                "name": "Retired Soldier",
+                "townhallLevel": 17,
+                "mapPosition": 26,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#88QLQUYQ8",
+                "name": "Gladiator",
+                "townhallLevel": 18,
+                "mapPosition": 4,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#G2JVRQVLR",
+                "name": "Nomad",
+                "townhallLevel": 17,
+                "mapPosition": 21,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#88Q0G8QPL",
+                "name": "Noble",
+                "townhallLevel": 18,
+                "mapPosition": 8,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#9L0VQYJP8",
+                "name": "Assassin",
+                "townhallLevel": 18,
+                "mapPosition": 12,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#Y2G90G989",
+                "name": "Militia",
+                "townhallLevel": 17,
+                "mapPosition": 17,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QJVLLQ92C",
+                "name": "Messenger",
+                "townhallLevel": 17,
+                "mapPosition": 27,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#Y2QV8G8Y2",
+                "name": "Brawler",
+                "townhallLevel": 18,
+                "mapPosition": 14,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#820Q2PCL2",
+                "name": "Crusader",
+                "townhallLevel": 18,
+                "mapPosition": 6,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QCJYCRPVP",
+                "name": "Monk",
+                "townhallLevel": 17,
+                "mapPosition": 23,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QCQC02URV",
+                "name": "Thief",
+                "townhallLevel": 17,
+                "mapPosition": 25,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#UY9Y98GP",
+                "name": "Squire",
+                "townhallLevel": 18,
+                "mapPosition": 7,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QCJCYCYU0",
+                "name": "Caravan Hand",
+                "townhallLevel": 17,
+                "mapPosition": 29,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#2RU00QUC9",
+                "name": "Sellsword",
+                "townhallLevel": 18,
+                "mapPosition": 3,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#Y8Y02CRP2",
+                "name": "Wildman",
+                "townhallLevel": 18,
+                "mapPosition": 13,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QJULGL0Y9",
+                "name": "Gravedigger",
+                "townhallLevel": 17,
+                "mapPosition": 31,
+                "opponentAttacks": 0
+            },
+            {
+                "tag": "#QYGUYCP2L",
+                "name": "Executioner",
+                "townhallLevel": 17,
+                "mapPosition": 32,
+                "opponentAttacks": 0
+            }
+        ]
+    }
+}
