@@ -16,7 +16,34 @@
       "name": "Renan13",
       "townhallLevel": 18,
       "mapPosition": 9,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#22Y8Y0JRC",
+          "defenderTag": "#Y2QV8G8Y2",
+          "stars": 2,
+          "destructionPercentage": 91,
+          "order": 37,
+          "duration": 180,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        },
+        {
+          "attackerTag": "#22Y8Y0JRC",
+          "defenderTag": "#QCJYCRPVP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 38,
+          "duration": 104,
+          "attackerTh": 18,
+          "defenderTh": 17,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": null
     },
     {
@@ -234,7 +261,34 @@
       "name": "lv91_guna",
       "townhallLevel": 18,
       "mapPosition": 13,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#GYQ8LY8CQ",
+          "defenderTag": "#Y2QV8G8Y2",
+          "stars": 1,
+          "destructionPercentage": 77,
+          "order": 35,
+          "duration": 126,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        },
+        {
+          "attackerTag": "#GYQ8LY8CQ",
+          "defenderTag": "#Y99L02LPU",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 36,
+          "duration": 114,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
       "defense": null
     },
     {
@@ -377,7 +431,34 @@
       "name": "SMAKSH9738",
       "townhallLevel": 18,
       "mapPosition": 11,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#PPUVUUPLJ",
+          "defenderTag": "#QV2LCVQV9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 39,
+          "duration": 100,
+          "attackerTh": 18,
+          "defenderTh": 17,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        },
+        {
+          "attackerTag": "#PPUVUUPLJ",
+          "defenderTag": "#QCQC02URV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 40,
+          "duration": 147,
+          "attackerTh": 18,
+          "defenderTh": 17,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": null
     },
     {
