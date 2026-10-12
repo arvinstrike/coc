@@ -1,13 +1,14 @@
 import { describe, expect, it } from "vitest";
 import { leaderboardToSheets } from "../lib/sheet";
-import type { PlayerStats } from "../lib/stats/player";
+import type { ScoredPlayer } from "../lib/stats/score";
 
-const p: PlayerStats = {
+const p: ScoredPlayer = {
   tag: "#X", name: "X", townHallLevel: 15, wars: 3,
   attacksUsed: 5, attacksAvailable: 6, attackUsage: 5 / 6,
   stars: 12, expectedStars: 10.37, starsVsExpected: 1.634,
   mirrorAttacks: 4, mirror3Stars: 3, mirror3StarRate: 0.75,
   cleanupStars: 2, avgDestruction: 88.33, defenses: 2, defenseStarsAllowed: 3, avgDefenseStars: 1.5,
+  score: 61.2, tier: "A",
 };
 
 describe("leaderboardToSheets", () => {
@@ -21,9 +22,11 @@ describe("leaderboardToSheets", () => {
 
   it("rounds and ranks the row for display", () => {
     expect(regular.headers[0]).toBe("#");
-    const [rank, name, th, wars, usage, stars, exp, vsExp, mir3] = regular.rows[0]!;
+    const [rank, name, tier, score, th, wars, usage, stars, exp, vsExp, mir3] = regular.rows[0]!;
     expect(rank).toBe(1);
     expect(name).toBe("X");
+    expect(tier).toBe("A");
+    expect(score).toBe(61.2);
     expect(th).toBe(15);
     expect(wars).toBe(3);
     expect(usage).toBe(83); // round(5/6*100)

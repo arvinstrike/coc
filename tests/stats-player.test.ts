@@ -1,7 +1,7 @@
 import { describe, expect, it } from "vitest";
 import { expectedStars } from "../lib/stats/expected";
-import { aggregatePlayers } from "../lib/stats/player";
-import { normalizeWar, type RawWar } from "../lib/normalize/war";
+import { aggregatePlayers, recencyWeights } from "../lib/stats/player";
+import { normalizeWar, type NormWar, type RawWar } from "../lib/normalize/war";
 
 describe("expectedStars", () => {
   it("is higher when hitting down, lower when hitting up, and clamps", () => {
@@ -96,5 +96,30 @@ describe("aggregatePlayers", () => {
     expect(x.avgDefenseStars).toBe(2);
     expect(y.defenses).toBe(0);
     expect(y.avgDefenseStars).toBe(0);
+  });
+});
+
+// Minimal NormWar stubs: recencyWeights only reads startTime + warId.
+const stubWar = (id: string, start: string): NormWar =>
+  ({ warId: id, startTime: start, members: [], type: "regular" }) as unknown as NormWar;
+
+describe("recencyWeights", () => {
+  it("is empty for no wars and averages to 1", () => {
+    expect(recencyWeights([]).size).toBe(0);
+    // ~30 days apart with a 30-day half-life: older war ~0.5x the newer one
+    const ws = [stubWar("old", "20260801T000000.000Z"), stubWar("new", "20260831T000000.000Z")];
+    const w = recencyWeights(ws, 30);
+    const mean = [...w.values()].reduce((a, b) => a + b, 0) / w.size;
+    expect(mean).toBeCloseTo(1, 6); // normalized to mean 1
+    expect(w.get("new")!).toBeGreaterThan(w.get("old")!); // recent counts more
+    expect(w.get("old")! / w.get("new")!).toBeCloseTo(0.5, 2); // one half-life
+  });
+
+  it("leaves aggregation unchanged when every weight is 1 (default)", () => {
+    const wars = [war1(), war2()].map((w) => normalizeWar(w, "#US"));
+    const def = aggregatePlayers(wars).get("#X")!;
+    const unit = aggregatePlayers(wars, () => 1).get("#X")!;
+    expect(unit.stars).toBe(def.stars);
+    expect(unit.starsVsExpected).toBeCloseTo(def.starsVsExpected, 9);
   });
 });

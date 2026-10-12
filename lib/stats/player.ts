@@ -1,7 +1,7 @@
 // Pure aggregation: NormWar[] -> per-player performance metrics (F3).
 // No Firestore. Pass wars of a SINGLE type (regular XOR cwl) — the caller keeps
 // them separate because 1 attack/round changes what the ratios mean.
-import type { NormWar } from "../normalize/war";
+import { parseCocTime, type NormWar } from "../normalize/war";
 import { expectedStars } from "./expected";
 
 export interface PlayerStats {
@@ -36,36 +36,58 @@ function blank(tag: string): PlayerStats {
   };
 }
 
-export function aggregatePlayers(wars: NormWar[]): Map<string, PlayerStats> {
+const HALF_LIFE_DAYS = 30; // a war this many days older than the newest counts half
+const DAY_MS = 86_400_000;
+
+// Recency weights per warId, exponential decay by calendar age vs the newest
+// war, normalized so the mean weight is 1 (magnitudes stay natural, the tilt is
+// purely relative). Decay by days, not war index, so a cluster of CWL rounds in
+// one week isn't treated as 7 separate "old" wars.
+export function recencyWeights(wars: NormWar[], halfLifeDays = HALF_LIFE_DAYS): Map<string, number> {
+  if (wars.length === 0) return new Map();
+  const newest = Math.max(...wars.map((w) => parseCocTime(w.startTime)));
+  const raw = wars.map((w) => {
+    const ageDays = (newest - parseCocTime(w.startTime)) / DAY_MS;
+    return { id: w.warId, w: 0.5 ** (ageDays / halfLifeDays) };
+  });
+  const mean = raw.reduce((s, r) => s + r.w, 0) / raw.length;
+  return new Map(raw.map((r) => [r.id, r.w / mean]));
+}
+
+export function aggregatePlayers(
+  wars: NormWar[],
+  weightFor: (war: NormWar) => number = () => 1,
+): Map<string, PlayerStats> {
   const out = new Map<string, PlayerStats>();
   const destrSum = new Map<string, number>(); // running destruction sum, averaged at the end
 
   for (const war of wars) {
+    const w = weightFor(war); // recency weight; 1 = unweighted
     for (const m of war.members) {
       const s = out.get(m.tag) ?? blank(m.tag);
       s.name = m.name; // last seen
       s.townHallLevel = Math.max(s.townHallLevel, m.townhallLevel);
-      s.wars += 1;
-      s.attacksAvailable += war.attacksPerMember; // counted even if they never attacked
-      s.attacksUsed += m.attacks.length;
+      s.wars += 1; // true count, never weighted (display honesty)
+      s.attacksAvailable += war.attacksPerMember * w; // counted even if they never attacked
+      s.attacksUsed += m.attacks.length * w;
 
       for (const a of m.attacks) {
-        s.stars += a.stars;
-        if (a.defenderTh !== null) s.expectedStars += expectedStars(a.attackerTh - a.defenderTh);
-        destrSum.set(m.tag, (destrSum.get(m.tag) ?? 0) + a.destructionPercentage);
+        s.stars += a.stars * w;
+        if (a.defenderTh !== null) s.expectedStars += expectedStars(a.attackerTh - a.defenderTh) * w;
+        destrSum.set(m.tag, (destrSum.get(m.tag) ?? 0) + a.destructionPercentage * w);
         if (a.isMirror) {
-          s.mirrorAttacks += 1;
-          if (a.stars === 3) s.mirror3Stars += 1;
+          s.mirrorAttacks += w;
+          if (a.stars === 3) s.mirror3Stars += w;
         }
         // ponytail: counts full stars of a cleanup hit, not the marginal gain
         // over the base's prior best. Upgrade to per-base marginal (track max
         // stars per defenderTag by order) if roster decisions lean on this.
-        if (a.isCleanup) s.cleanupStars += a.stars;
+        if (a.isCleanup) s.cleanupStars += a.stars * w;
       }
 
       if (m.defense) {
-        s.defenses += 1;
-        s.defenseStarsAllowed += m.defense.stars;
+        s.defenses += w;
+        s.defenseStarsAllowed += m.defense.stars * w;
       }
       out.set(m.tag, s);
     }
