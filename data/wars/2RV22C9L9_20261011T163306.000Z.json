@@ -1,7 +1,7 @@
 {
   "warId": "#2RV22C9L9_20261011T163306.000Z",
   "type": "regular",
-  "state": "inWar",
+  "state": "warEnded",
   "result": null,
   "teamSize": 35,
   "attacksPerMember": 2,
@@ -203,7 +203,21 @@
       "name": "Safiq",
       "townhallLevel": 18,
       "mapPosition": 6,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#2CRV0RUYQ",
+          "defenderTag": "#Y9RPY0PRL",
+          "stars": 2,
+          "destructionPercentage": 93,
+          "order": 97,
+          "duration": 180,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
       "defense": {
         "attackerTag": "#9GR82CP0L",
         "attackerTh": 18,
@@ -283,7 +297,21 @@
       "name": "五条 悟",
       "townhallLevel": 18,
       "mapPosition": 18,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#LG0YVJQQ9",
+          "defenderTag": "#Y9RPY0PRL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 98,
+          "duration": 160,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": true,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
       "defense": {
         "attackerTag": "#8U2VQVUGL",
         "attackerTh": 18,
@@ -336,7 +364,34 @@
       "name": "warrior",
       "townhallLevel": 18,
       "mapPosition": 16,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#9PUVU99J9",
+          "defenderTag": "#Y9RPY0PRL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 105,
+          "duration": 136,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        },
+        {
+          "attackerTag": "#9PUVU99J9",
+          "defenderTag": "#P2RP99GG2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 108,
+          "duration": 127,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
       "defense": {
         "attackerTag": "#8U2VQVUGL",
         "attackerTh": 18,
@@ -482,7 +537,34 @@
       "name": "warrior",
       "townhallLevel": 17,
       "mapPosition": 30,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#9CQJU88GP",
+          "defenderTag": "#Q9RGCQ8YQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 106,
+          "duration": 96,
+          "attackerTh": 17,
+          "defenderTh": 17,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        },
+        {
+          "attackerTag": "#9CQJU88GP",
+          "defenderTag": "#QGGVL2QQV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 107,
+          "duration": 105,
+          "attackerTh": 17,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
       "defense": {
         "attackerTag": "#Y9LVRCYQY",
         "attackerTh": 17,
@@ -828,7 +910,34 @@
       "name": "sparx sandip",
       "townhallLevel": 18,
       "mapPosition": 17,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#GY0PJY2YP",
+          "defenderTag": "#P2RP99GG2",
+          "stars": 1,
+          "destructionPercentage": 96,
+          "order": 99,
+          "duration": 180,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        },
+        {
+          "attackerTag": "#GY0PJY2YP",
+          "defenderTag": "#P2YURP80Q",
+          "stars": 1,
+          "destructionPercentage": 75,
+          "order": 100,
+          "duration": 161,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
       "defense": {
         "attackerTag": "#QGGVL2QQV",
         "attackerTh": 18,
@@ -841,7 +950,34 @@
       "name": "Lake",
       "townhallLevel": 18,
       "mapPosition": 14,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#GLVLCPRYV",
+          "defenderTag": "#P2RP99GG2",
+          "stars": 2,
+          "destructionPercentage": 91,
+          "order": 101,
+          "duration": 156,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        },
+        {
+          "attackerTag": "#GLVLCPRYV",
+          "defenderTag": "#P2YURP80Q",
+          "stars": 1,
+          "destructionPercentage": 88,
+          "order": 103,
+          "duration": 164,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
       "defense": {
         "attackerTag": "#LUL80Y0GG",
         "attackerTh": 18,
