@@ -96,8 +96,40 @@
       "name": "Dismalsneeze11",
       "townhallLevel": 17,
       "mapPosition": 27,
-      "attacks": [],
-      "defense": null
+      "attacks": [
+        {
+          "attackerTag": "#QJRGQUPUY",
+          "defenderTag": "#9U0V9099Q",
+          "stars": 2,
+          "destructionPercentage": 50,
+          "order": 98,
+          "duration": 65,
+          "attackerTh": 17,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        },
+        {
+          "attackerTag": "#QJRGQUPUY",
+          "defenderTag": "#PCVYRYUCC",
+          "stars": 2,
+          "destructionPercentage": 75,
+          "order": 99,
+          "duration": 143,
+          "attackerTh": 17,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
+      "defense": {
+        "attackerTag": "#G8YU0Y8GL",
+        "attackerTh": 17,
+        "stars": 2,
+        "destructionPercentage": 99
+      }
     },
     {
       "tag": "#G2R0U0UQ0",
@@ -396,7 +428,12 @@
       "townhallLevel": 17,
       "mapPosition": 28,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#G8YU0Y8GL",
+        "attackerTh": 17,
+        "stars": 2,
+        "destructionPercentage": 72
+      }
     },
     {
       "tag": "#PPUVUUPLJ",
