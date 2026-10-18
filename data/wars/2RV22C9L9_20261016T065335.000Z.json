@@ -854,7 +854,34 @@
       "name": "Lake",
       "townhallLevel": 18,
       "mapPosition": 15,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#GLVLCPRYV",
+          "defenderTag": "#CVUUJ299",
+          "stars": 2,
+          "destructionPercentage": 75,
+          "order": 99,
+          "duration": 162,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        },
+        {
+          "attackerTag": "#GLVLCPRYV",
+          "defenderTag": "#9C2R2URY",
+          "stars": 2,
+          "destructionPercentage": 95,
+          "order": 100,
+          "duration": 180,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
       "defense": {
         "attackerTag": "#Y8LQ2VUU",
         "attackerTh": 18,
