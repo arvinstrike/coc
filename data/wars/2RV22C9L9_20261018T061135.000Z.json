@@ -96,7 +96,34 @@
       "name": "Dismalsneeze11",
       "townhallLevel": 17,
       "mapPosition": 26,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#QJRGQUPUY",
+          "defenderTag": "#QG9CR22C",
+          "stars": 2,
+          "destructionPercentage": 50,
+          "order": 83,
+          "duration": 62,
+          "attackerTh": 17,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        },
+        {
+          "attackerTag": "#QJRGQUPUY",
+          "defenderTag": "#80QL00RJ",
+          "stars": 1,
+          "destructionPercentage": 27,
+          "order": 84,
+          "duration": 28,
+          "attackerTh": 17,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
       "defense": {
         "attackerTag": "#Q9J0PRYJV",
         "attackerTh": 16,
@@ -149,7 +176,34 @@
       "name": "Safiq",
       "townhallLevel": 18,
       "mapPosition": 6,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#2CRV0RUYQ",
+          "defenderTag": "#QG9CR22C",
+          "stars": 1,
+          "destructionPercentage": 98,
+          "order": 76,
+          "duration": 180,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        },
+        {
+          "attackerTag": "#2CRV0RUYQ",
+          "defenderTag": "#80QL00RJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 79,
+          "duration": 128,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
       "defense": {
         "attackerTag": "#QG9CR22C",
         "attackerTh": 18,
@@ -175,7 +229,34 @@
       "name": "matthew",
       "townhallLevel": 18,
       "mapPosition": 10,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#PLJV9CGL",
+          "defenderTag": "#QG9CR22C",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 77,
+          "duration": 101,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        },
+        {
+          "attackerTag": "#PLJV9CGL",
+          "defenderTag": "#PQJYGPRU2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 80,
+          "duration": 153,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
       "defense": {
         "attackerTag": "#8V2LYUVU",
         "attackerTh": 18,
@@ -190,10 +271,10 @@
       "mapPosition": 17,
       "attacks": [],
       "defense": {
-        "attackerTag": "#GGJJYV99",
-        "attackerTh": 18,
-        "stars": 1,
-        "destructionPercentage": 94
+        "attackerTag": "#GUVRJGVJ",
+        "attackerTh": 16,
+        "stars": 2,
+        "destructionPercentage": 83
       }
     },
     {
@@ -522,10 +603,10 @@
         }
       ],
       "defense": {
-        "attackerTag": "#R0C2QGVV",
-        "attackerTh": 16,
-        "stars": 2,
-        "destructionPercentage": 60
+        "attackerTag": "#GRV2P9P2P",
+        "attackerTh": 17,
+        "stars": 3,
+        "destructionPercentage": 100
       }
     },
     {
@@ -534,7 +615,12 @@
       "townhallLevel": 18,
       "mapPosition": 11,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#UCLJJLCG",
+        "attackerTh": 18,
+        "stars": 2,
+        "destructionPercentage": 53
+      }
     },
     {
       "tag": "#GY0PJY2YP",
@@ -837,10 +923,10 @@
         }
       ],
       "defense": {
-        "attackerTag": "#R0C2QGVV",
-        "attackerTh": 16,
-        "stars": 2,
-        "destructionPercentage": 77
+        "attackerTag": "#GRV2P9P2P",
+        "attackerTh": 17,
+        "stars": 3,
+        "destructionPercentage": 100
       }
     },
     {
