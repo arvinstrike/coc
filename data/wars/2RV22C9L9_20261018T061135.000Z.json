@@ -165,10 +165,10 @@
         }
       ],
       "defense": {
-        "attackerTag": "#28GPV8U99",
+        "attackerTag": "#2L8YL9CL8",
         "attackerTh": 18,
-        "stars": 2,
-        "destructionPercentage": 66
+        "stars": 3,
+        "destructionPercentage": 100
       }
     },
     {
@@ -216,12 +216,26 @@
       "name": "Pizza Time",
       "townhallLevel": 18,
       "mapPosition": 16,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#8YQ99GPQ",
+          "defenderTag": "#GGJJYV99",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 92,
+          "duration": 126,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": true,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
       "defense": {
-        "attackerTag": "#GGJJYV99",
+        "attackerTag": "#28UL0LL0Q",
         "attackerTh": 18,
-        "stars": 2,
-        "destructionPercentage": 88
+        "stars": 3,
+        "destructionPercentage": 100
       }
     },
     {
@@ -614,12 +628,39 @@
       "name": "WOULD YOU LOSE?",
       "townhallLevel": 18,
       "mapPosition": 11,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#YQGYVUJYG",
+          "defenderTag": "#QG9CR22C",
+          "stars": 1,
+          "destructionPercentage": 19,
+          "order": 89,
+          "duration": 45,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        },
+        {
+          "attackerTag": "#YQGYVUJYG",
+          "defenderTag": "#80QL00RJ",
+          "stars": 1,
+          "destructionPercentage": 12,
+          "order": 90,
+          "duration": 38,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
       "defense": {
-        "attackerTag": "#UCLJJLCG",
+        "attackerTag": "#28UL0LL0Q",
         "attackerTh": 18,
         "stars": 2,
-        "destructionPercentage": 53
+        "destructionPercentage": 62
       }
     },
     {
