@@ -151,10 +151,10 @@
         }
       ],
       "defense": {
-        "attackerTag": "#LYP0U8ULU",
-        "attackerTh": 17,
-        "stars": 2,
-        "destructionPercentage": 89
+        "attackerTag": "#8U809QVR0",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
       }
     },
     {
@@ -363,10 +363,10 @@
       "mapPosition": 15,
       "attacks": [],
       "defense": {
-        "attackerTag": "#GYQ09JYVU",
+        "attackerTag": "#8U809QVR0",
         "attackerTh": 18,
-        "stars": 2,
-        "destructionPercentage": 99
+        "stars": 3,
+        "destructionPercentage": 100
       }
     },
     {
@@ -748,14 +748,33 @@
       "townhallLevel": 14,
       "mapPosition": 34,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#LQJPY9V",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#YQGYVUJYG",
       "name": "WOULD YOU LOSE?",
       "townhallLevel": 18,
       "mapPosition": 11,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#YQGYVUJYG",
+          "defenderTag": "#PPUP20UJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 89,
+          "duration": 109,
+          "attackerTh": 18,
+          "defenderTh": 17,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
       "defense": {
         "attackerTag": "#PG20RCPJG",
         "attackerTh": 18,
@@ -809,7 +828,12 @@
       "townhallLevel": 13,
       "mapPosition": 35,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#QJPULU0RY",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#GLVLCPRYV",
@@ -960,6 +984,19 @@
           "attackerTh": 17,
           "defenderTh": 17,
           "isMirror": true,
+          "firstHit": true,
+          "isCleanup": false
+        },
+        {
+          "attackerTag": "#GRRJUG2J8",
+          "defenderTag": "#P82QL82YC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 86,
+          "duration": 165,
+          "attackerTh": 17,
+          "defenderTh": 17,
+          "isMirror": false,
           "firstHit": true,
           "isCleanup": false
         }
