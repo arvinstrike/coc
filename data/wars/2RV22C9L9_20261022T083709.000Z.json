@@ -201,6 +201,19 @@
           "isMirror": false,
           "firstHit": false,
           "isCleanup": true
+        },
+        {
+          "attackerTag": "#PLJV9CGL",
+          "defenderTag": "#LQGQGCJR8",
+          "stars": 2,
+          "destructionPercentage": 97,
+          "order": 60,
+          "duration": 142,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
         }
       ],
       "defense": {
@@ -351,7 +364,34 @@
       "name": "Clasher",
       "townhallLevel": 17,
       "mapPosition": 22,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#22Y9RQG2L",
+          "defenderTag": "#YRC2QP9LR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 55,
+          "duration": 135,
+          "attackerTh": 17,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        },
+        {
+          "attackerTag": "#22Y9RQG2L",
+          "defenderTag": "#L0CJR2JVC",
+          "stars": 1,
+          "destructionPercentage": 90,
+          "order": 57,
+          "duration": 180,
+          "attackerTh": 17,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
       "defense": {
         "attackerTag": "#QGJ282Y2G",
         "attackerTh": 18,
@@ -378,7 +418,12 @@
       "townhallLevel": 17,
       "mapPosition": 23,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#LG8RV8RRJ",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#9LPPLPC0Y",
@@ -506,7 +551,12 @@
       "townhallLevel": 17,
       "mapPosition": 27,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#JCJJ80RQ",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#GU0Q2PLJJ",
@@ -627,7 +677,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#JCJJ80RQ",
+        "attackerTh": 18,
+        "stars": 2,
+        "destructionPercentage": 77
+      }
     },
     {
       "tag": "#88LL09VGR",
