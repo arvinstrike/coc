@@ -427,7 +427,34 @@
       "name": "DarkDifusion",
       "townhallLevel": 17,
       "mapPosition": 23,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#PR9CYY2CR",
+          "defenderTag": "#Y8R9GQPC9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 74,
+          "duration": 113,
+          "attackerTh": 17,
+          "defenderTh": 17,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        },
+        {
+          "attackerTag": "#PR9CYY2CR",
+          "defenderTag": "#L0CJR2JVC",
+          "stars": 1,
+          "destructionPercentage": 64,
+          "order": 75,
+          "duration": 169,
+          "attackerTh": 17,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
       "defense": {
         "attackerTag": "#LG8RV8RRJ",
         "attackerTh": 18,
@@ -586,16 +613,61 @@
           "isMirror": true,
           "firstHit": true,
           "isCleanup": false
+        },
+        {
+          "attackerTag": "#GU0Q2PLJJ",
+          "defenderTag": "#YQPJ29YV2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 68,
+          "duration": 92,
+          "attackerTh": 17,
+          "defenderTh": 14,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#P8VL2V9C",
+        "attackerTh": 17,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#YQGYVUJYG",
       "name": "WOULD YOU LOSE?",
       "townhallLevel": 18,
       "mapPosition": 9,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#YQGYVUJYG",
+          "defenderTag": "#PLGRLUJRG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 66,
+          "duration": 136,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        },
+        {
+          "attackerTag": "#YQGYVUJYG",
+          "defenderTag": "#LG8RV8RRJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 67,
+          "duration": 165,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": {
         "attackerTag": "#JJ2L9VPP",
         "attackerTh": 18,
@@ -634,7 +706,34 @@
       "name": "Arvin",
       "townhallLevel": 18,
       "mapPosition": 10,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#2U2JJ2UVC",
+          "defenderTag": "#LQGQGCJR8",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 64,
+          "duration": 124,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": true,
+          "firstHit": false,
+          "isCleanup": true
+        },
+        {
+          "attackerTag": "#2U2JJ2UVC",
+          "defenderTag": "#Y098LYCQY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 65,
+          "duration": 145,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": {
         "attackerTag": "#Y098LYCQY",
         "attackerTh": 18,
@@ -702,10 +801,10 @@
         }
       ],
       "defense": {
-        "attackerTag": "#JCJJ80RQ",
+        "attackerTag": "#80YRP8RLY",
         "attackerTh": 18,
-        "stars": 2,
-        "destructionPercentage": 77
+        "stars": 3,
+        "destructionPercentage": 100
       }
     },
     {
