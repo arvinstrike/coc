@@ -45,10 +45,10 @@
         }
       ],
       "defense": {
-        "attackerTag": "#LUG0ULRYV",
+        "attackerTag": "#QV0PQYLG0",
         "attackerTh": 18,
-        "stars": 2,
-        "destructionPercentage": 78
+        "stars": 3,
+        "destructionPercentage": 100
       }
     },
     {
@@ -97,7 +97,12 @@
       "townhallLevel": 17,
       "mapPosition": 22,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#L88YV8YPR",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#G2R0U0UQ0",
@@ -298,15 +303,52 @@
       "townhallLevel": 17,
       "mapPosition": 23,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#P0C9VP9VP",
+        "attackerTh": 17,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#PR9CYY2CR",
       "name": "DarkDifusion",
       "townhallLevel": 17,
       "mapPosition": 21,
-      "attacks": [],
-      "defense": null
+      "attacks": [
+        {
+          "attackerTag": "#PR9CYY2CR",
+          "defenderTag": "#898UG98Q0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 70,
+          "duration": 133,
+          "attackerTh": 17,
+          "defenderTh": 17,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        },
+        {
+          "attackerTag": "#PR9CYY2CR",
+          "defenderTag": "#P0C9VP9VP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 71,
+          "duration": 127,
+          "attackerTh": 17,
+          "defenderTh": 17,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
+      "defense": {
+        "attackerTag": "#Y8LV29UVP",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#9LPPLPC0Y",
@@ -381,7 +423,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#2URUJQGVY",
+        "attackerTh": 17,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#2JRCP0V8P",
@@ -510,10 +557,10 @@
         }
       ],
       "defense": {
-        "attackerTag": "#GG2VRG0QR",
-        "attackerTh": 15,
-        "stars": 2,
-        "destructionPercentage": 98
+        "attackerTag": "#P0C9VP9VP",
+        "attackerTh": 17,
+        "stars": 3,
+        "destructionPercentage": 100
       }
     },
     {
@@ -531,6 +578,19 @@
           "duration": 142,
           "attackerTh": 18,
           "defenderTh": 15,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        },
+        {
+          "attackerTag": "#GJLJQLRLC",
+          "defenderTag": "#QJ22JPGG9",
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 72,
+          "duration": 180,
+          "attackerTh": 18,
+          "defenderTh": 17,
           "isMirror": false,
           "firstHit": true,
           "isCleanup": false
@@ -588,7 +648,21 @@
       "name": "Lake",
       "townhallLevel": 18,
       "mapPosition": 11,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#GLVLCPRYV",
+          "defenderTag": "#2URUJQGVY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 81,
+          "duration": 134,
+          "attackerTh": 18,
+          "defenderTh": 17,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": {
         "attackerTag": "#QJ22JPGG9",
         "attackerTh": 17,
@@ -723,10 +797,10 @@
       "mapPosition": 25,
       "attacks": [],
       "defense": {
-        "attackerTag": "#G8P9LUL2Q",
-        "attackerTh": 16,
-        "stars": 2,
-        "destructionPercentage": 92
+        "attackerTag": "#2URUJQGVY",
+        "attackerTh": 17,
+        "stars": 3,
+        "destructionPercentage": 100
       }
     },
     {
