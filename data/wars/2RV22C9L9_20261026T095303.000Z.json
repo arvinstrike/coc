@@ -202,7 +202,21 @@
       "name": "Pizza Time",
       "townhallLevel": 18,
       "mapPosition": 14,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#8YQ99GPQ",
+          "defenderTag": "#GVP2UVQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 76,
+          "duration": 151,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": true,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
       "defense": {
         "attackerTag": "#28LQVPLQQ",
         "attackerTh": 18,
@@ -586,7 +600,34 @@
       "name": "WOULD YOU LOSE?",
       "townhallLevel": 18,
       "mapPosition": 10,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#YQGYVUJYG",
+          "defenderTag": "#99JQ0P2PQ",
+          "stars": 1,
+          "destructionPercentage": 12,
+          "order": 77,
+          "duration": 42,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        },
+        {
+          "attackerTag": "#YQGYVUJYG",
+          "defenderTag": "#2J8JVGYV2",
+          "stars": 1,
+          "destructionPercentage": 7,
+          "order": 78,
+          "duration": 13,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
       "defense": {
         "attackerTag": "#9PRLQ0PP0",
         "attackerTh": 18,
@@ -788,10 +829,10 @@
         }
       ],
       "defense": {
-        "attackerTag": "#G9GPQC0UL",
-        "attackerTh": 17,
-        "stars": 2,
-        "destructionPercentage": 77
+        "attackerTag": "#Y0R9VUY8Q",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
       }
     },
     {
