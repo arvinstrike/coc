@@ -441,7 +441,21 @@
       "name": "DarkDifusion",
       "townhallLevel": 17,
       "mapPosition": 24,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#PR9CYY2CR",
+          "defenderTag": "#G28LRQVRV",
+          "stars": 2,
+          "destructionPercentage": 78,
+          "order": 79,
+          "duration": 103,
+          "attackerTh": 17,
+          "defenderTh": 16,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
       "defense": {
         "attackerTag": "#QQUJPU2GP",
         "attackerTh": 17,
@@ -747,7 +761,21 @@
       "name": "LeGEnDs AK07",
       "townhallLevel": 17,
       "mapPosition": 20,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#8Q0C2V9GR",
+          "defenderTag": "#99JQ0P2PQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 82,
+          "duration": 107,
+          "attackerTh": 17,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
       "defense": {
         "attackerTag": "#9RJ82UUQR",
         "attackerTh": 17,
@@ -880,7 +908,34 @@
       "name": "Meep",
       "townhallLevel": 17,
       "mapPosition": 21,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#89GR82RPQ",
+          "defenderTag": "#99JQ0P2PQ",
+          "stars": 1,
+          "destructionPercentage": 41,
+          "order": 80,
+          "duration": 60,
+          "attackerTh": 17,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        },
+        {
+          "attackerTag": "#89GR82RPQ",
+          "defenderTag": "#LVVY9QGUY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 81,
+          "duration": 158,
+          "attackerTh": 17,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
       "defense": {
         "attackerTag": "#9RJ82UUQR",
         "attackerTh": 17,
