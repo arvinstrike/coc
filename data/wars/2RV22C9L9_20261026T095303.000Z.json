@@ -189,7 +189,34 @@
       "name": "Safiq",
       "townhallLevel": 18,
       "mapPosition": 6,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#2CRV0RUYQ",
+          "defenderTag": "#99JQ0P2PQ",
+          "stars": 1,
+          "destructionPercentage": 25,
+          "order": 96,
+          "duration": 50,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        },
+        {
+          "attackerTag": "#2CRV0RUYQ",
+          "defenderTag": "#2J8JVGYV2",
+          "stars": 1,
+          "destructionPercentage": 16,
+          "order": 97,
+          "duration": 30,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
       "defense": {
         "attackerTag": "#2J8JVGYV2",
         "attackerTh": 18,
@@ -213,6 +240,19 @@
           "attackerTh": 18,
           "defenderTh": 18,
           "isMirror": true,
+          "firstHit": false,
+          "isCleanup": true
+        },
+        {
+          "attackerTag": "#8YQ99GPQ",
+          "defenderTag": "#9PRLQ0PP0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 93,
+          "duration": 174,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
           "firstHit": false,
           "isCleanup": true
         }
@@ -707,6 +747,19 @@
           "isMirror": false,
           "firstHit": false,
           "isCleanup": true
+        },
+        {
+          "attackerTag": "#GLVLCPRYV",
+          "defenderTag": "#LVVY9QGUY",
+          "stars": 1,
+          "destructionPercentage": 68,
+          "order": 89,
+          "duration": 155,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
         }
       ],
       "defense": {
@@ -769,6 +822,19 @@
           "destructionPercentage": 100,
           "order": 82,
           "duration": 107,
+          "attackerTh": 17,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        },
+        {
+          "attackerTag": "#8Q0C2V9GR",
+          "defenderTag": "#LVVY9QGUY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 92,
+          "duration": 110,
           "attackerTh": 17,
           "defenderTh": 18,
           "isMirror": false,
