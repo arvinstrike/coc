@@ -390,7 +390,21 @@
       "name": "Mayonnaise",
       "townhallLevel": 17,
       "mapPosition": 24,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#QJUVC0RPU",
+          "defenderTag": "#GY0YCJVCV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 39,
+          "duration": 101,
+          "attackerTh": 17,
+          "defenderTh": 15,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": {
         "attackerTag": "#UQ9L0LUV",
         "attackerTh": 17,
@@ -563,7 +577,21 @@
       "name": "Meep",
       "townhallLevel": 17,
       "mapPosition": 20,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#89GR82RPQ",
+          "defenderTag": "#QCVCJYPGR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 40,
+          "duration": 122,
+          "attackerTh": 17,
+          "defenderTh": 17,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": {
         "attackerTag": "#LLQY8J2V",
         "attackerTh": 17,
