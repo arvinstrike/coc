@@ -1,7 +1,7 @@
 {
   "warId": "#2RV22C9L9_20261028T122057.000Z",
   "type": "regular",
-  "state": "inWar",
+  "state": "warEnded",
   "result": null,
   "teamSize": 25,
   "attacksPerMember": 2,
@@ -16,7 +16,21 @@
       "name": "Anthocyanin.",
       "townhallLevel": 18,
       "mapPosition": 15,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#LLPQQLP2L",
+          "defenderTag": "#YJ9GQ0V02",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 82,
+          "duration": 129,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": true,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
       "defense": {
         "attackerTag": "#YJ9GQ0V02",
         "attackerTh": 18,
@@ -870,7 +884,34 @@
       "name": "Captain cool",
       "townhallLevel": 18,
       "mapPosition": 2,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#88LL09VGR",
+          "defenderTag": "#YVU9V9JL9",
+          "stars": 2,
+          "destructionPercentage": 52,
+          "order": 80,
+          "duration": 84,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        },
+        {
+          "attackerTag": "#88LL09VGR",
+          "defenderTag": "#8PJJY2YR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 81,
+          "duration": 155,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": true,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
       "defense": {
         "attackerTag": "#Y80JRQJ0",
         "attackerTh": 18,
