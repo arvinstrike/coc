@@ -1,7 +1,7 @@
 {
   "warId": "#2RV22C9L9_20261030T155618.000Z",
   "type": "regular",
-  "state": "preparation",
+  "state": "inWar",
   "result": null,
   "teamSize": 30,
   "attacksPerMember": 2,
@@ -120,7 +120,34 @@
       "name": "⚡刀乇丂ㄒ尺口ㄚ乇尺⚡",
       "townhallLevel": 17,
       "mapPosition": 19,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#9LPPLPC0Y",
+          "defenderTag": "#20YPQLLP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 1,
+          "duration": 162,
+          "attackerTh": 17,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        },
+        {
+          "attackerTag": "#9LPPLPC0Y",
+          "defenderTag": "#LQLJ0JV82",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 2,
+          "duration": 143,
+          "attackerTh": 17,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": null
     },
     {
