@@ -24,7 +24,34 @@
       "name": "gunjit",
       "townhallLevel": 18,
       "mapPosition": 7,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#8YQ0YCUQ8",
+          "defenderTag": "#22G29VRPG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 24,
+          "duration": 123,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        },
+        {
+          "attackerTag": "#8YQ0YCUQ8",
+          "defenderTag": "#2VYQPJ2PL",
+          "stars": 1,
+          "destructionPercentage": 81,
+          "order": 25,
+          "duration": 169,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": null
     },
     {
@@ -33,14 +60,46 @@
       "townhallLevel": 17,
       "mapPosition": 25,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#YJ2RG28G",
+        "attackerTh": 17,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#G2R0U0UQ0",
       "name": "CannonBolt",
       "townhallLevel": 18,
       "mapPosition": 16,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#G2R0U0UQ0",
+          "defenderTag": "#PVVG8L2PQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 10,
+          "duration": 123,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        },
+        {
+          "attackerTag": "#G2R0U0UQ0",
+          "defenderTag": "#G2CURRVYR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 11,
+          "duration": 142,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": null
     },
     {
@@ -80,15 +139,74 @@
       "name": "Adesina❤️PRIME❤",
       "townhallLevel": 18,
       "mapPosition": 2,
-      "attacks": [],
-      "defense": null
+      "attacks": [
+        {
+          "attackerTag": "#Q2PU9RQ8Y",
+          "defenderTag": "#2L8V2YUL2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 9,
+          "duration": 151,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        },
+        {
+          "attackerTag": "#Q2PU9RQ8Y",
+          "defenderTag": "#2PYJ0RV0",
+          "stars": 2,
+          "destructionPercentage": 90,
+          "order": 12,
+          "duration": 168,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
+      "defense": {
+        "attackerTag": "#2PYJ0RV0",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#C8QYYP22",
       "name": "killer",
       "townhallLevel": 18,
       "mapPosition": 6,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#C8QYYP22",
+          "defenderTag": "#JRYUGVC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 13,
+          "duration": 110,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        },
+        {
+          "attackerTag": "#C8QYYP22",
+          "defenderTag": "#2PYJ0RV0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 14,
+          "duration": 125,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
       "defense": null
     },
     {
@@ -104,7 +222,34 @@
       "name": "Clasher",
       "townhallLevel": 17,
       "mapPosition": 23,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#22Y9RQG2L",
+          "defenderTag": "#8CLGR88RJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 16,
+          "duration": 135,
+          "attackerTh": 17,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        },
+        {
+          "attackerTag": "#22Y9RQG2L",
+          "defenderTag": "#RR8RQV0G",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 17,
+          "duration": 140,
+          "attackerTh": 17,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": null
     },
     {
@@ -113,7 +258,12 @@
       "townhallLevel": 17,
       "mapPosition": 24,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#YJ2RG28G",
+        "attackerTh": 17,
+        "stars": 2,
+        "destructionPercentage": 88
+      }
     },
     {
       "tag": "#9LPPLPC0Y",
@@ -148,7 +298,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#P8PQ8P8GJ",
+        "attackerTh": 17,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#2JRCP0V8P",
@@ -156,7 +311,12 @@
       "townhallLevel": 17,
       "mapPosition": 21,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#QJRG0Q29L",
+        "attackerTh": 17,
+        "stars": 2,
+        "destructionPercentage": 93
+      }
     },
     {
       "tag": "#QRYV02R9",
@@ -171,7 +331,21 @@
       "name": "Mayonnaise",
       "townhallLevel": 17,
       "mapPosition": 26,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#QJUVC0RPU",
+          "defenderTag": "#G0JGCUU8V",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 23,
+          "duration": 128,
+          "attackerTh": 17,
+          "defenderTh": 17,
+          "isMirror": true,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": null
     },
     {
@@ -179,7 +353,34 @@
       "name": "Molly⁷",
       "townhallLevel": 17,
       "mapPosition": 27,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#GJVVP8R0G",
+          "defenderTag": "#QJRG0Q29L",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 19,
+          "duration": 90,
+          "attackerTh": 17,
+          "defenderTh": 17,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        },
+        {
+          "attackerTag": "#GJVVP8R0G",
+          "defenderTag": "#G2J0G2LY8",
+          "stars": 2,
+          "destructionPercentage": 95,
+          "order": 20,
+          "duration": 164,
+          "attackerTh": 17,
+          "defenderTh": 17,
+          "isMirror": true,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": null
     },
     {
@@ -203,7 +404,34 @@
       "name": "WOULD YOU LOSE?",
       "townhallLevel": 18,
       "mapPosition": 11,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#YQGYVUJYG",
+          "defenderTag": "#PVVG8L2PQ",
+          "stars": 2,
+          "destructionPercentage": 93,
+          "order": 8,
+          "duration": 180,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        },
+        {
+          "attackerTag": "#YQGYVUJYG",
+          "defenderTag": "#PY9RYY2L8",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 15,
+          "duration": 143,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": null
     },
     {
@@ -227,7 +455,34 @@
       "name": "Arvin",
       "townhallLevel": 18,
       "mapPosition": 10,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#2U2JJ2UVC",
+          "defenderTag": "#Q2CGYVVPV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 21,
+          "duration": 139,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        },
+        {
+          "attackerTag": "#2U2JJ2UVC",
+          "defenderTag": "#Y92LPUYYC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 22,
+          "duration": 133,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": null
     },
     {
@@ -236,7 +491,12 @@
       "townhallLevel": 17,
       "mapPosition": 20,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#QJRG0Q29L",
+        "attackerTh": 17,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#GRP9808RJ",
@@ -244,14 +504,46 @@
       "townhallLevel": 18,
       "mapPosition": 1,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#2PYJ0RV0",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#GRRJUG2J8",
       "name": "Gercs",
       "townhallLevel": 18,
       "mapPosition": 18,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#GRRJUG2J8",
+          "defenderTag": "#2CYP8CUUQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 3,
+          "duration": 123,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": true,
+          "firstHit": true,
+          "isCleanup": false
+        },
+        {
+          "attackerTag": "#GRRJUG2J8",
+          "defenderTag": "#9LQVLVGY9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 4,
+          "duration": 151,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": null
     },
     {
@@ -267,7 +559,21 @@
       "name": "Captain cool",
       "townhallLevel": 18,
       "mapPosition": 3,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#88LL09VGR",
+          "defenderTag": "#PJP8J0UUV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 5,
+          "duration": 131,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": true,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": null
     },
     {
