@@ -17,7 +17,12 @@
       "townhallLevel": 18,
       "mapPosition": 17,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#PR0R2UYG",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#8YQ0YCUQ8",
@@ -123,7 +128,21 @@
       "name": "Grim",
       "townhallLevel": 18,
       "mapPosition": 4,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#2QLCGQ29G",
+          "defenderTag": "#PR0R2UYG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 35,
+          "duration": 107,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
       "defense": null
     },
     {
@@ -214,7 +233,34 @@
       "name": "abhishek is don",
       "townhallLevel": 18,
       "mapPosition": 5,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#Y09UUGVGL",
+          "defenderTag": "#2VYQPJ2PL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 30,
+          "duration": 141,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        },
+        {
+          "attackerTag": "#Y09UUGVGL",
+          "defenderTag": "#PR0R2UYG",
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 31,
+          "duration": 180,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": null
     },
     {
@@ -397,7 +443,12 @@
       "townhallLevel": 18,
       "mapPosition": 13,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#RR8RQV0G",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#YQGYVUJYG",
@@ -448,7 +499,12 @@
       "townhallLevel": 18,
       "mapPosition": 12,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#RR8RQV0G",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#2U2JJ2UVC",
@@ -574,7 +630,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#PR0R2UYG",
+        "attackerTh": 18,
+        "stars": 2,
+        "destructionPercentage": 78
+      }
     },
     {
       "tag": "#89GR82RPQ",
