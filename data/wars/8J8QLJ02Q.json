@@ -31,7 +31,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#G98U2R8J",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#LLPQQLP2L",
@@ -241,7 +246,12 @@
       "townhallLevel": 18,
       "mapPosition": 26,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#LQV2QV0UQ",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#Q2PU9RQ8Y",
@@ -514,7 +524,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#PU2888PJ",
+        "attackerTh": 18,
+        "stars": 2,
+        "destructionPercentage": 70
+      }
     },
     {
       "tag": "#8Q0C2V9GR",
