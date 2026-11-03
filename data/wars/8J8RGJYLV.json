@@ -1,0 +1,257 @@
+{
+  "warId": "#8J8RGJYLV",
+  "type": "cwl",
+  "state": "preparation",
+  "result": null,
+  "teamSize": 30,
+  "attacksPerMember": 1,
+  "preparationStartTime": "20261103T072738.000Z",
+  "startTime": "20261104T072735.000Z",
+  "endTime": "20261105T072735.000Z",
+  "ourClanTag": "#2RV22C9L9",
+  "opponentClanTag": "#2LUC9V0Q",
+  "members": [
+    {
+      "tag": "#22Y8Y0JRC",
+      "name": "Renan13",
+      "townhallLevel": 18,
+      "mapPosition": 18,
+      "attacks": [],
+      "defense": null
+    },
+    {
+      "tag": "#LLPQQLP2L",
+      "name": "Anthocyanin.",
+      "townhallLevel": 18,
+      "mapPosition": 32,
+      "attacks": [],
+      "defense": null
+    },
+    {
+      "tag": "#QVRYCY82G",
+      "name": "jaber127",
+      "townhallLevel": 18,
+      "mapPosition": 10,
+      "attacks": [],
+      "defense": null
+    },
+    {
+      "tag": "#G2R0U0UQ0",
+      "name": "CannonBolt",
+      "townhallLevel": 18,
+      "mapPosition": 31,
+      "attacks": [],
+      "defense": null
+    },
+    {
+      "tag": "#2CRV0RUYQ",
+      "name": "Safiq",
+      "townhallLevel": 18,
+      "mapPosition": 11,
+      "attacks": [],
+      "defense": null
+    },
+    {
+      "tag": "#9JLGPUJ22",
+      "name": "Millie",
+      "townhallLevel": 18,
+      "mapPosition": 16,
+      "attacks": [],
+      "defense": null
+    },
+    {
+      "tag": "#PLJV9CGL",
+      "name": "matthew",
+      "townhallLevel": 18,
+      "mapPosition": 19,
+      "attacks": [],
+      "defense": null
+    },
+    {
+      "tag": "#2QLCGQ29G",
+      "name": "Grim",
+      "townhallLevel": 18,
+      "mapPosition": 5,
+      "attacks": [],
+      "defense": null
+    },
+    {
+      "tag": "#GQVPVRC90",
+      "name": "dex",
+      "townhallLevel": 18,
+      "mapPosition": 8,
+      "attacks": [],
+      "defense": null
+    },
+    {
+      "tag": "#9PUVU99J9",
+      "name": "warrior",
+      "townhallLevel": 18,
+      "mapPosition": 27,
+      "attacks": [],
+      "defense": null
+    },
+    {
+      "tag": "#C8QYYP22",
+      "name": "killer",
+      "townhallLevel": 18,
+      "mapPosition": 9,
+      "attacks": [],
+      "defense": null
+    },
+    {
+      "tag": "#Y09UUGVGL",
+      "name": "abhishek is don",
+      "townhallLevel": 18,
+      "mapPosition": 6,
+      "attacks": [],
+      "defense": null
+    },
+    {
+      "tag": "#22Y9RQG2L",
+      "name": "Clasher",
+      "townhallLevel": 17,
+      "mapPosition": 37,
+      "attacks": [],
+      "defense": null
+    },
+    {
+      "tag": "#8PCVPJL0L",
+      "name": "HALCYON",
+      "townhallLevel": 18,
+      "mapPosition": 33,
+      "attacks": [],
+      "defense": null
+    },
+    {
+      "tag": "#9LPPLPC0Y",
+      "name": "⚡刀乇丂ㄒ尺口ㄚ乇尺⚡",
+      "townhallLevel": 18,
+      "mapPosition": 24,
+      "attacks": [],
+      "defense": null
+    },
+    {
+      "tag": "#LR2J2R2QP",
+      "name": "Unova allaren",
+      "townhallLevel": 18,
+      "mapPosition": 22,
+      "attacks": [],
+      "defense": null
+    },
+    {
+      "tag": "#QRYV02R9",
+      "name": "Camper",
+      "townhallLevel": 18,
+      "mapPosition": 15,
+      "attacks": [],
+      "defense": null
+    },
+    {
+      "tag": "#QJUVC0RPU",
+      "name": "Mayonnaise",
+      "townhallLevel": 17,
+      "mapPosition": 40,
+      "attacks": [],
+      "defense": null
+    },
+    {
+      "tag": "#8Y8QVVQCL",
+      "name": "xLr8_72",
+      "townhallLevel": 18,
+      "mapPosition": 2,
+      "attacks": [],
+      "defense": null
+    },
+    {
+      "tag": "#YQGYVUJYG",
+      "name": "WOULD YOU LOSE?",
+      "townhallLevel": 18,
+      "mapPosition": 21,
+      "attacks": [],
+      "defense": null
+    },
+    {
+      "tag": "#2U2JJ2UVC",
+      "name": "Arvin",
+      "townhallLevel": 18,
+      "mapPosition": 20,
+      "attacks": [],
+      "defense": null
+    },
+    {
+      "tag": "#8Q0C2V9GR",
+      "name": "LeGEnDs AK07",
+      "townhallLevel": 18,
+      "mapPosition": 26,
+      "attacks": [],
+      "defense": null
+    },
+    {
+      "tag": "#8YPL22UJJ",
+      "name": "AS × GOLDY⚡",
+      "townhallLevel": 18,
+      "mapPosition": 7,
+      "attacks": [],
+      "defense": null
+    },
+    {
+      "tag": "#GRP9808RJ",
+      "name": "MistaH Ghost",
+      "townhallLevel": 18,
+      "mapPosition": 1,
+      "attacks": [],
+      "defense": null
+    },
+    {
+      "tag": "#GRRJUG2J8",
+      "name": "Gercs",
+      "townhallLevel": 18,
+      "mapPosition": 34,
+      "attacks": [],
+      "defense": null
+    },
+    {
+      "tag": "#PP2C29LCJ",
+      "name": "❌philip❌",
+      "townhallLevel": 18,
+      "mapPosition": 12,
+      "attacks": [],
+      "defense": null
+    },
+    {
+      "tag": "#88LL09VGR",
+      "name": "Captain cool",
+      "townhallLevel": 18,
+      "mapPosition": 4,
+      "attacks": [],
+      "defense": null
+    },
+    {
+      "tag": "#LJCG8LJR9",
+      "name": "kingcobra",
+      "townhallLevel": 18,
+      "mapPosition": 14,
+      "attacks": [],
+      "defense": null
+    },
+    {
+      "tag": "#89GR82RPQ",
+      "name": "Meep",
+      "townhallLevel": 18,
+      "mapPosition": 30,
+      "attacks": [],
+      "defense": null
+    },
+    {
+      "tag": "#VRQPPGPP",
+      "name": "Deadpool",
+      "townhallLevel": 18,
+      "mapPosition": 17,
+      "attacks": [],
+      "defense": null
+    }
+  ],
+  "season": "2026-11-02",
+  "round": 2
+}

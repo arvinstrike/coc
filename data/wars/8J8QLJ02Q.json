@@ -1,7 +1,7 @@
 {
   "warId": "#8J8QLJ02Q",
   "type": "cwl",
-  "state": "preparation",
+  "state": "inWar",
   "result": null,
   "teamSize": 30,
   "attacksPerMember": 1,
@@ -64,7 +64,21 @@
       "name": "matthew",
       "townhallLevel": 18,
       "mapPosition": 19,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#PLJV9CGL",
+          "defenderTag": "#U9C0QRVJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 11,
+          "duration": 126,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": null
     },
     {
@@ -73,7 +87,12 @@
       "townhallLevel": 18,
       "mapPosition": 5,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#UVP80JJ0",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#GQVPVRC90",
@@ -81,7 +100,12 @@
       "townhallLevel": 18,
       "mapPosition": 8,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#8PVYQ8GV9",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#9PUVU99J9",
@@ -96,7 +120,21 @@
       "name": "Adesina❤️PRIME❤",
       "townhallLevel": 18,
       "mapPosition": 3,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#Q2PU9RQ8Y",
+          "defenderTag": "#LQV2QV0UQ",
+          "stars": 2,
+          "destructionPercentage": 61,
+          "order": 12,
+          "duration": 142,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": null
     },
     {
@@ -128,7 +166,21 @@
       "name": "⚡刀乇丂ㄒ尺口ㄚ乇尺⚡",
       "townhallLevel": 18,
       "mapPosition": 27,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#9LPPLPC0Y",
+          "defenderTag": "#G98U2R8J",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 3,
+          "duration": 131,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": null
     },
     {
@@ -169,7 +221,12 @@
       "townhallLevel": 18,
       "mapPosition": 20,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#2YJPLG0CL",
+        "attackerTh": 18,
+        "stars": 1,
+        "destructionPercentage": 63
+      }
     },
     {
       "tag": "#2U2JJ2UVC",
@@ -184,15 +241,48 @@
       "name": "LeGEnDs AK07",
       "townhallLevel": 18,
       "mapPosition": 25,
-      "attacks": [],
-      "defense": null
+      "attacks": [
+        {
+          "attackerTag": "#8Q0C2V9GR",
+          "defenderTag": "#QUQ0PLGC8",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 6,
+          "duration": 111,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
+      "defense": {
+        "attackerTag": "#8LPQ2Q8GC",
+        "attackerTh": 18,
+        "stars": 2,
+        "destructionPercentage": 73
+      }
     },
     {
       "tag": "#8YPL22UJJ",
       "name": "AS × GOLDY⚡",
       "townhallLevel": 18,
       "mapPosition": 7,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#8YPL22UJJ",
+          "defenderTag": "#90LPCR00P",
+          "stars": 2,
+          "destructionPercentage": 92,
+          "order": 7,
+          "duration": 173,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": true,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": null
     },
     {
@@ -200,7 +290,21 @@
       "name": "MistaH Ghost",
       "townhallLevel": 18,
       "mapPosition": 1,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#GRP9808RJ",
+          "defenderTag": "#JUG0LV09",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 10,
+          "duration": 153,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": null
     },
     {
@@ -225,7 +329,12 @@
       "townhallLevel": 18,
       "mapPosition": 4,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#90Q2CGRL9",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#LJCG8LJR9",
@@ -249,7 +358,12 @@
       "townhallLevel": 18,
       "mapPosition": 17,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#LUPYLRLY",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     }
   ],
   "season": "2026-11-02",
