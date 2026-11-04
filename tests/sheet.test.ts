@@ -7,6 +7,7 @@ const p: ScoredPlayer = {
   attacksUsed: 5, attacksAvailable: 6, attackUsage: 5 / 6,
   stars: 12, expectedStars: 10.37, starsVsExpected: 1.634,
   mirrorAttacks: 4, mirror3Stars: 3, mirror3StarRate: 0.75,
+  triples: 3, tripleRate: 0.6, missedAttacks: 1,
   cleanupStars: 2, avgDestruction: 88.33, defenses: 2, defenseStarsAllowed: 3, avgDefenseStars: 1.5,
   score: 61.2, tier: "A",
 };
@@ -18,6 +19,20 @@ describe("leaderboardToSheets", () => {
     expect(regular.name).toBe("Regular");
     expect(cwl.name).toBe("CWL");
     expect(cwl.rows).toEqual([]);
+  });
+
+  it("gives the CWL block its own participation/bonus columns", () => {
+    const [, cwlBlock] = leaderboardToSheets({ regular: [], cwl: [p] });
+    expect(cwlBlock.headers).toContain("Miss");
+    expect(cwlBlock.headers).toContain("Triple%");
+    expect(cwlBlock.headers).toContain("NetStars");
+    expect(cwlBlock.headers).toContain("Bonus");
+    const row = cwlBlock.rows[0]!;
+    const idx = (h: string) => cwlBlock.headers.indexOf(h);
+    expect(row[idx("Miss")]).toBe(1); // missedAttacks, true count
+    expect(row[idx("Triple%")]).toBe(60); // round(0.6*100)
+    expect(row[idx("NetStars")]).toBe(9); // stars 12 - defenseStarsAllowed 3
+    expect(row[idx("Bonus")]).toBe(1); // only player -> top bonus candidate
   });
 
   it("rounds and ranks the row for display", () => {

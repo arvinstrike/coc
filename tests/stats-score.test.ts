@@ -7,6 +7,7 @@ const mk = (o: Partial<PlayerStats>): PlayerStats => ({
   attacksUsed: 0, attacksAvailable: 0, attackUsage: 1,
   stars: 0, expectedStars: 0, starsVsExpected: 0,
   mirrorAttacks: 0, mirror3Stars: 0, mirror3StarRate: 0,
+  triples: 0, tripleRate: 0, missedAttacks: 0,
   cleanupStars: 0, avgDestruction: 0,
   defenses: 0, defenseStarsAllowed: 0, avgDefenseStars: 0,
   ...o,

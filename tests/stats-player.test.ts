@@ -88,6 +88,17 @@ describe("aggregatePlayers", () => {
     expect(x.avgDestruction).toBe(80); // (100+60)/2
   });
 
+  it("counts triples, triple rate, and no-show missed attacks", () => {
+    const x = stats.get("#X")!;
+    expect(x.triples).toBe(1); // one 3★ (on D1) across both wars
+    expect(x.tripleRate).toBe(0.5); // 1 triple / 2 attacks used
+    // W1: 2 available, 2 used -> 0 missed. W2: 2 available, 0 used -> 2 missed.
+    expect(x.missedAttacks).toBe(2);
+    const y = stats.get("#Y")!;
+    expect(y.triples).toBe(0);
+    expect(y.missedAttacks).toBe(1); // W1: 2 available, 1 used
+  });
+
   it("counts cleanup stars and defenses", () => {
     const y = stats.get("#Y")!;
     expect(y.cleanupStars).toBe(1); // Y's hit on D1 was not the first hit

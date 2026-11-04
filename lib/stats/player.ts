@@ -18,6 +18,9 @@ export interface PlayerStats {
   mirrorAttacks: number;
   mirror3Stars: number;
   mirror3StarRate: number; // 0..1, 0 when no mirror attacks
+  triples: number; // 3-star attacks on any base (not just mirror)
+  tripleRate: number; // 0..1, triples / attacksUsed, 0 when no attacks
+  missedAttacks: number; // in lineup but didn't swing. True count (unweighted), CWL no-show
   cleanupStars: number; // see ponytail note below
   avgDestruction: number; // 0..100, 0 when no attacks used
   defenses: number;
@@ -31,6 +34,7 @@ function blank(tag: string): PlayerStats {
     attacksUsed: 0, attacksAvailable: 0, attackUsage: 0,
     stars: 0, expectedStars: 0, starsVsExpected: 0,
     mirrorAttacks: 0, mirror3Stars: 0, mirror3StarRate: 0,
+    triples: 0, tripleRate: 0, missedAttacks: 0,
     cleanupStars: 0, avgDestruction: 0,
     defenses: 0, defenseStarsAllowed: 0, avgDefenseStars: 0,
   };
@@ -70,9 +74,11 @@ export function aggregatePlayers(
       s.wars += 1; // true count, never weighted (display honesty)
       s.attacksAvailable += war.attacksPerMember * w; // counted even if they never attacked
       s.attacksUsed += m.attacks.length * w;
+      s.missedAttacks += Math.max(0, war.attacksPerMember - m.attacks.length); // no-show, true count
 
       for (const a of m.attacks) {
         s.stars += a.stars * w;
+        if (a.stars === 3) s.triples += w;
         if (a.defenderTh !== null) s.expectedStars += expectedStars(a.attackerTh - a.defenderTh) * w;
         destrSum.set(m.tag, (destrSum.get(m.tag) ?? 0) + a.destructionPercentage * w);
         if (a.isMirror) {
@@ -97,6 +103,7 @@ export function aggregatePlayers(
     s.attackUsage = s.attacksAvailable ? s.attacksUsed / s.attacksAvailable : 0;
     s.starsVsExpected = s.stars - s.expectedStars;
     s.mirror3StarRate = s.mirrorAttacks ? s.mirror3Stars / s.mirrorAttacks : 0;
+    s.tripleRate = s.attacksUsed ? s.triples / s.attacksUsed : 0;
     s.avgDestruction = s.attacksUsed ? (destrSum.get(s.tag) ?? 0) / s.attacksUsed : 0;
     s.avgDefenseStars = s.defenses ? s.defenseStarsAllowed / s.defenses : 0;
   }

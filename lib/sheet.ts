@@ -34,6 +34,29 @@ export function playersToSheet(name: string, players: ScoredPlayer[]): SheetBloc
   return { name, headers: HEADERS, rows };
 }
 
+// CWL is 1 attack/round, so the stakes are participation (no-show kills you) and
+// bonus-medal allocation — hence its own columns instead of the regular block.
+const CWL_HEADERS = [
+  "#", "Name", "Tier", "Score", "TH", "Rounds", "Used", "Miss", "Stars",
+  "Triple%", "+/-Exp", "NetStars", "Def★", "Bonus",
+];
+
+export function cwlToSheet(name: string, players: ScoredPlayer[]): SheetBlock {
+  // Bonus medals go to the biggest raw contributors: total stars, then destruction.
+  // Within one CWL season (~7 days) recency weighting is ~flat, so p.stars is fine.
+  const bonusOrder = [...players].sort(
+    (a, b) => b.stars - a.stars || b.avgDestruction - a.avgDestruction,
+  );
+  const bonusRank = new Map(bonusOrder.map((p, i) => [p.tag, i + 1]));
+  const rows = players.map((p, i) => [
+    i + 1, p.name, p.tier, p.score, p.townHallLevel, p.wars,
+    r1(p.attacksUsed), p.missedAttacks, r1(p.stars), pct(p.tripleRate),
+    r2(p.starsVsExpected), r1(p.stars - p.defenseStarsAllowed), r1(p.avgDefenseStars),
+    bonusRank.get(p.tag) ?? 0,
+  ]);
+  return { name, headers: CWL_HEADERS, rows };
+}
+
 export function leaderboardToSheets(lb: Leaderboard): SheetBlock[] {
-  return [playersToSheet("Regular", lb.regular), playersToSheet("CWL", lb.cwl)];
+  return [playersToSheet("Regular", lb.regular), cwlToSheet("CWL", lb.cwl)];
 }
