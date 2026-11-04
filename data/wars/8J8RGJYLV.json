@@ -16,7 +16,21 @@
       "name": "Renan13",
       "townhallLevel": 18,
       "mapPosition": 18,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#22Y8Y0JRC",
+          "defenderTag": "#QCY8UUP92",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 54,
+          "duration": 134,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": {
         "attackerTag": "#2LQQ0GQ9G",
         "attackerTh": 18,
@@ -380,7 +394,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#Q0RQYYJQL",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#LR2J2R2QP",
