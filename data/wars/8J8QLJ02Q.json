@@ -245,7 +245,21 @@
       "name": "warrior",
       "townhallLevel": 18,
       "mapPosition": 26,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#9PUVU99J9",
+          "defenderTag": "#89LGYLPJ9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 56,
+          "duration": 120,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": {
         "attackerTag": "#LQV2QV0UQ",
         "attackerTh": 18,
@@ -496,7 +510,21 @@
       "name": "WOULD YOU LOSE?",
       "townhallLevel": 18,
       "mapPosition": 20,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#YQGYVUJYG",
+          "defenderTag": "#220J89GQL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 58,
+          "duration": 160,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": {
         "attackerTag": "#2YJPLG0CL",
         "attackerTh": 18,
@@ -725,7 +753,21 @@
       "name": "Meep",
       "townhallLevel": 18,
       "mapPosition": 30,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#89GR82RPQ",
+          "defenderTag": "#2QJLQPPUV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 59,
+          "duration": 151,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": {
         "attackerTag": "#G22PGQPPC",
         "attackerTh": 18,
