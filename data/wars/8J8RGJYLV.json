@@ -504,7 +504,21 @@
       "name": "WOULD YOU LOSE?",
       "townhallLevel": 18,
       "mapPosition": 21,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#YQGYVUJYG",
+          "defenderTag": "#PQYY9GCG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 55,
+          "duration": 171,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": {
         "attackerTag": "#2Q8JVPGUC",
         "attackerTh": 18,
