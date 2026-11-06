@@ -31,7 +31,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#LGQ8J9QL",
+        "attackerTh": 16,
+        "stars": 1,
+        "destructionPercentage": 88
+      }
     },
     {
       "tag": "#QVRYCY82G",
@@ -53,7 +58,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#CCYY2GP2",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#G2R0U0UQ0",
@@ -144,8 +154,27 @@
       "name": "Grim",
       "townhallLevel": 18,
       "mapPosition": 5,
-      "attacks": [],
-      "defense": null
+      "attacks": [
+        {
+          "attackerTag": "#2QLCGQ29G",
+          "defenderTag": "#PYGPR90G0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 44,
+          "duration": 123,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
+      "defense": {
+        "attackerTag": "#LC02QVQR",
+        "attackerTh": 18,
+        "stars": 1,
+        "destructionPercentage": 68
+      }
     },
     {
       "tag": "#GQVPVRC90",
@@ -275,7 +304,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#2892GU98P",
+        "attackerTh": 17,
+        "stars": 2,
+        "destructionPercentage": 87
+      }
     },
     {
       "tag": "#22Y9RQG2L",
@@ -297,7 +331,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#QYJCC29UJ",
+        "attackerTh": 17,
+        "stars": 2,
+        "destructionPercentage": 94
+      }
     },
     {
       "tag": "#PR9CYY2CR",
@@ -358,7 +397,21 @@
       "name": "Unova allaren",
       "townhallLevel": 18,
       "mapPosition": 22,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#LR2J2R2QP",
+          "defenderTag": "#QYJCC29UJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 51,
+          "duration": 123,
+          "attackerTh": 18,
+          "defenderTh": 17,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": {
         "attackerTag": "#PYGPR90G0",
         "attackerTh": 18,
@@ -494,7 +547,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#Q80QYYQU8",
+        "attackerTh": 18,
+        "stars": 2,
+        "destructionPercentage": 70
+      }
     },
     {
       "tag": "#8Q0C2V9GR",
@@ -597,15 +655,39 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#2282PL9Y",
+        "attackerTh": 16,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#PP2C29LCJ",
       "name": "❌philip❌",
       "townhallLevel": 18,
       "mapPosition": 12,
-      "attacks": [],
-      "defense": null
+      "attacks": [
+        {
+          "attackerTag": "#PP2C29LCJ",
+          "defenderTag": "#YV8V9VVGP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 53,
+          "duration": 136,
+          "attackerTh": 18,
+          "defenderTh": 17,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
+      "defense": {
+        "attackerTag": "#P8UGQJYVU",
+        "attackerTh": 18,
+        "stars": 2,
+        "destructionPercentage": 80
+      }
     },
     {
       "tag": "#88LL09VGR",
@@ -654,7 +736,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#9UVRRY8RU",
+        "attackerTh": 15,
+        "stars": 2,
+        "destructionPercentage": 80
+      }
     },
     {
       "tag": "#89GR82RPQ",
@@ -683,7 +770,21 @@
       "name": "Deadpool",
       "townhallLevel": 18,
       "mapPosition": 17,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#VRQPPGPP",
+          "defenderTag": "#QYUQLJJ9Q",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 55,
+          "duration": 133,
+          "attackerTh": 18,
+          "defenderTh": 17,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": {
         "attackerTag": "#QYUQLJJ9Q",
         "attackerTh": 17,
