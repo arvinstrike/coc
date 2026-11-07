@@ -88,7 +88,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#QJ0L022C0",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#2CRV0RUYQ",
@@ -314,7 +319,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#98RU89JJC",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#9CQJU88GP",
@@ -498,7 +508,21 @@
       "name": "LeGEnDs AK07",
       "townhallLevel": 18,
       "mapPosition": 27,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#8Q0C2V9GR",
+          "defenderTag": "#L9Y9PL90C",
+          "stars": 2,
+          "destructionPercentage": 98,
+          "order": 38,
+          "duration": 177,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": null
     },
     {
@@ -587,7 +611,21 @@
       "name": "❌philip❌",
       "townhallLevel": 18,
       "mapPosition": 12,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#PP2C29LCJ",
+          "defenderTag": "#QGCYJV8RL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 42,
+          "duration": 129,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": null
     },
     {
@@ -610,7 +648,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#YP80GJJPJ",
+        "attackerTh": 18,
+        "stars": 2,
+        "destructionPercentage": 99
+      }
     },
     {
       "tag": "#LJCG8LJR9",
