@@ -95,7 +95,21 @@
       "name": "Safiq",
       "townhallLevel": 18,
       "mapPosition": 11,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#2CRV0RUYQ",
+          "defenderTag": "#GQVVJU02",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 35,
+          "duration": 106,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": null
     },
     {
@@ -140,7 +154,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#2PVJU9V9J",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#2QLCGQ29G",
@@ -303,7 +322,12 @@
       "townhallLevel": 18,
       "mapPosition": 39,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#QLLUGRJQJ",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#9LPPLPC0Y",
@@ -398,7 +422,21 @@
       "name": "xLr8_72",
       "townhallLevel": 18,
       "mapPosition": 2,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#8Y8QVVQCL",
+          "defenderTag": "#Q20QRV9QY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 34,
+          "duration": 130,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": true,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": {
         "attackerTag": "#L2YG9RUV8",
         "attackerTh": 18,
@@ -483,7 +521,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#LQQ8J00L",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#GRP9808RJ",
@@ -517,8 +560,27 @@
       "name": "Gercs",
       "townhallLevel": 18,
       "mapPosition": 36,
-      "attacks": [],
-      "defense": null
+      "attacks": [
+        {
+          "attackerTag": "#GRRJUG2J8",
+          "defenderTag": "#98RU89JJC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 33,
+          "duration": 164,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
+      "defense": {
+        "attackerTag": "#Q20QRV9QY",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#PP2C29LCJ",
@@ -555,7 +617,21 @@
       "name": "kingcobra",
       "townhallLevel": 18,
       "mapPosition": 14,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#LJCG8LJR9",
+          "defenderTag": "#LQQ8J00L",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 32,
+          "duration": 136,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": null
     },
     {
@@ -563,7 +639,21 @@
       "name": "Meep",
       "townhallLevel": 18,
       "mapPosition": 30,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#89GR82RPQ",
+          "defenderTag": "#QJUVLRCU9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 31,
+          "duration": 139,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": {
         "attackerTag": "#8YGCP0LV",
         "attackerTh": 18,
