@@ -16,8 +16,27 @@
       "name": "Renan13",
       "townhallLevel": 18,
       "mapPosition": 18,
-      "attacks": [],
-      "defense": null
+      "attacks": [
+        {
+          "attackerTag": "#22Y8Y0JRC",
+          "defenderTag": "#8JRJQJRVC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 45,
+          "duration": 120,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
+      "defense": {
+        "attackerTag": "#LPPCCP8G0",
+        "attackerTh": 18,
+        "stars": 2,
+        "destructionPercentage": 80
+      }
     },
     {
       "tag": "#LLPQQLP2L",
@@ -66,7 +85,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#LL2RRPJV",
+        "attackerTh": 18,
+        "stars": 2,
+        "destructionPercentage": 78
+      }
     },
     {
       "tag": "#G2R0U0UQ0",
@@ -230,7 +254,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#YYVCRLPU",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#Q2PU9RQ8Y",
@@ -252,7 +281,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#CG0LQV8J",
+        "attackerTh": 18,
+        "stars": 2,
+        "destructionPercentage": 62
+      }
     },
     {
       "tag": "#C8QYYP22",
@@ -350,7 +384,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#Q08828GY",
+        "attackerTh": 18,
+        "stars": 2,
+        "destructionPercentage": 91
+      }
     },
     {
       "tag": "#LR2J2R2QP",
@@ -666,7 +705,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#2PYV2URR",
+        "attackerTh": 18,
+        "stars": 2,
+        "destructionPercentage": 98
+      }
     },
     {
       "tag": "#89GR82RPQ",
