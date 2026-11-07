@@ -112,7 +112,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#YG9U0JJY",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#2CRV0RUYQ",
@@ -210,7 +215,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#8PP2JYJP",
+        "attackerTh": 18,
+        "stars": 2,
+        "destructionPercentage": 89
+      }
     },
     {
       "tag": "#GQVPVRC90",
@@ -232,7 +242,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#8YV8JP8C",
+        "attackerTh": 18,
+        "stars": 1,
+        "destructionPercentage": 88
+      }
     },
     {
       "tag": "#9PUVU99J9",
@@ -308,7 +323,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#LGQG9YJ8U",
+        "attackerTh": 18,
+        "stars": 2,
+        "destructionPercentage": 80
+      }
     },
     {
       "tag": "#Y09UUGVGL",
@@ -438,7 +458,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#PPC02GU9",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#QJUVC0RPU",
@@ -639,7 +664,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#GCJJLUGC",
+        "attackerTh": 18,
+        "stars": 2,
+        "destructionPercentage": 72
+      }
     },
     {
       "tag": "#PP2C29LCJ",
@@ -661,7 +691,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#8G0LJPGP",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#88LL09VGR",
@@ -683,7 +718,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#PUU2QGG9",
+        "attackerTh": 18,
+        "stars": 2,
+        "destructionPercentage": 89
+      }
     },
     {
       "tag": "#LJCG8LJR9",
@@ -744,8 +784,27 @@
       "name": "Deadpool",
       "townhallLevel": 18,
       "mapPosition": 17,
-      "attacks": [],
-      "defense": null
+      "attacks": [
+        {
+          "attackerTag": "#VRQPPGPP",
+          "defenderTag": "#8G0LJPGP",
+          "stars": 1,
+          "destructionPercentage": 83,
+          "order": 54,
+          "duration": 180,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
+      "defense": {
+        "attackerTag": "#8RRCRUCY",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     }
   ],
   "season": "2026-11-02",
