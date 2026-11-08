@@ -12,6 +12,14 @@
   "opponentClanTag": "#8PCJGJC0",
   "members": [
     {
+      "tag": "#22Y8Y0JRC",
+      "name": "Renan13",
+      "townhallLevel": 18,
+      "mapPosition": 18,
+      "attacks": [],
+      "defense": null
+    },
+    {
       "tag": "#LLPQQLP2L",
       "name": "Anthocyanin.",
       "townhallLevel": 18,
@@ -32,14 +40,6 @@
       "name": "Dismalsneeze11",
       "townhallLevel": 18,
       "mapPosition": 33,
-      "attacks": [],
-      "defense": null
-    },
-    {
-      "tag": "#G2R0U0UQ0",
-      "name": "CannonBolt",
-      "townhallLevel": 18,
-      "mapPosition": 35,
       "attacks": [],
       "defense": null
     },
