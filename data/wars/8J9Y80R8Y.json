@@ -129,7 +129,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#PRPC0RVUY",
+        "attackerTh": 18,
+        "stars": 1,
+        "destructionPercentage": 68
+      }
     },
     {
       "tag": "#2CRV0RUYQ",
@@ -164,7 +169,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#URVJ0QQV",
+        "attackerTh": 18,
+        "stars": 2,
+        "destructionPercentage": 93
+      }
     },
     {
       "tag": "#PLJV9CGL",
@@ -292,7 +302,21 @@
       "name": "abhishek is don",
       "townhallLevel": 18,
       "mapPosition": 6,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#Y09UUGVGL",
+          "defenderTag": "#VYG0JR9V",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 48,
+          "duration": 143,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": {
         "attackerTag": "#2GPGY0CYR",
         "attackerTh": 18,
@@ -377,7 +401,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#29YV08C98",
+        "attackerTh": 18,
+        "stars": 2,
+        "destructionPercentage": 89
+      }
     },
     {
       "tag": "#LR2J2R2QP",
@@ -644,8 +673,27 @@
       "name": "❌philip❌",
       "townhallLevel": 18,
       "mapPosition": 12,
-      "attacks": [],
-      "defense": null
+      "attacks": [
+        {
+          "attackerTag": "#PP2C29LCJ",
+          "defenderTag": "#P2QU9PU9P",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 47,
+          "duration": 114,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
+      "defense": {
+        "attackerTag": "#R20G2JJ9",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#88LL09VGR",
