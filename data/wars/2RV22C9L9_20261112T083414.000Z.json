@@ -775,6 +775,19 @@
           "isMirror": false,
           "firstHit": false,
           "isCleanup": true
+        },
+        {
+          "attackerTag": "#YQGYVUJYG",
+          "defenderTag": "#QUUVQ2RG",
+          "stars": 1,
+          "destructionPercentage": 13,
+          "order": 98,
+          "duration": 21,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
         }
       ],
       "defense": {
@@ -815,7 +828,34 @@
       "name": "LeGEnDs AK07",
       "townhallLevel": 18,
       "mapPosition": 19,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#8Q0C2V9GR",
+          "defenderTag": "#QUUVQ2RG",
+          "stars": 2,
+          "destructionPercentage": 98,
+          "order": 96,
+          "duration": 158,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        },
+        {
+          "attackerTag": "#8Q0C2V9GR",
+          "defenderTag": "#92RCLVGR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 97,
+          "duration": 101,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
       "defense": {
         "attackerTag": "#PG92UJGLP",
         "attackerTh": 18,
