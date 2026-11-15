@@ -1,7 +1,7 @@
 {
   "warId": "#2RV22C9L9_20261114T074121.000Z",
   "type": "regular",
-  "state": "preparation",
+  "state": "inWar",
   "result": null,
   "teamSize": 35,
   "attacksPerMember": 2,
@@ -40,7 +40,34 @@
       "name": "CannonBolt",
       "townhallLevel": 18,
       "mapPosition": 27,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#G2R0U0UQ0",
+          "defenderTag": "#YGVPV2QQJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 15,
+          "duration": 145,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        },
+        {
+          "attackerTag": "#G2R0U0UQ0",
+          "defenderTag": "#P980UY9CC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 16,
+          "duration": 150,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": null
     },
     {
@@ -97,7 +124,12 @@
       "townhallLevel": 18,
       "mapPosition": 7,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#LUQQVLVPP",
+        "attackerTh": 18,
+        "stars": 2,
+        "destructionPercentage": 96
+      }
     },
     {
       "tag": "#QCGULR0YL",
@@ -113,7 +145,12 @@
       "townhallLevel": 18,
       "mapPosition": 4,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#CPGC0JPR",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#G8G2C8RPR",
@@ -129,7 +166,12 @@
       "townhallLevel": 18,
       "mapPosition": 8,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#9LLPG0UJU",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#Y09UUGVGL",
@@ -137,7 +179,12 @@
       "townhallLevel": 18,
       "mapPosition": 6,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#9LLPG0UJU",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#22Y9RQG2L",
@@ -160,7 +207,34 @@
       "name": "⚡刀乇丂ㄒ尺口ㄚ乇尺⚡",
       "townhallLevel": 18,
       "mapPosition": 16,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#9LPPLPC0Y",
+          "defenderTag": "#9LLPG0UJU",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 17,
+          "duration": 131,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        },
+        {
+          "attackerTag": "#9LPPLPC0Y",
+          "defenderTag": "#90LQVVUQ0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 18,
+          "duration": 130,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
       "defense": null
     },
     {
@@ -169,7 +243,12 @@
       "townhallLevel": 18,
       "mapPosition": 3,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#CPGC0JPR",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#2JRCP0V8P",
@@ -185,7 +264,12 @@
       "townhallLevel": 18,
       "mapPosition": 9,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#YV00JV20P",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#QJUVC0RPU",
@@ -217,7 +301,12 @@
       "townhallLevel": 18,
       "mapPosition": 1,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#YV00JV20P",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#GY0PJY2YP",
@@ -257,7 +346,12 @@
       "townhallLevel": 18,
       "mapPosition": 2,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#9U0G0JCJV",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#PP2C29LCJ",
@@ -280,15 +374,74 @@
       "name": "Captain cool",
       "townhallLevel": 18,
       "mapPosition": 5,
-      "attacks": [],
-      "defense": null
+      "attacks": [
+        {
+          "attackerTag": "#88LL09VGR",
+          "defenderTag": "#90LQVVUQ0",
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 3,
+          "duration": 180,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        },
+        {
+          "attackerTag": "#88LL09VGR",
+          "defenderTag": "#L9C9YCVPP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 5,
+          "duration": 139,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
+      "defense": {
+        "attackerTag": "#LUQQVLVPP",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#89GR82RPQ",
       "name": "Meep",
       "townhallLevel": 18,
       "mapPosition": 22,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#89GR82RPQ",
+          "defenderTag": "#9LLPG0UJU",
+          "stars": 1,
+          "destructionPercentage": 93,
+          "order": 13,
+          "duration": 172,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        },
+        {
+          "attackerTag": "#89GR82RPQ",
+          "defenderTag": "#9U0G0JCJV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 14,
+          "duration": 138,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": null
     }
   ]
