@@ -37,6 +37,19 @@
           "isMirror": true,
           "firstHit": true,
           "isCleanup": false
+        },
+        {
+          "attackerTag": "#GCQPVY9JC",
+          "defenderTag": "#9U0G0JCJV",
+          "stars": 1,
+          "destructionPercentage": 88,
+          "order": 81,
+          "duration": 180,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
         }
       ],
       "defense": null
@@ -46,7 +59,34 @@
       "name": "Dismalsneeze11",
       "townhallLevel": 18,
       "mapPosition": 25,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#QJRGQUPUY",
+          "defenderTag": "#9U0G0JCJV",
+          "stars": 1,
+          "destructionPercentage": 19,
+          "order": 79,
+          "duration": 18,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        },
+        {
+          "attackerTag": "#QJRGQUPUY",
+          "defenderTag": "#9LLPG0UJU",
+          "stars": 1,
+          "destructionPercentage": 33,
+          "order": 80,
+          "duration": 26,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
       "defense": null
     },
     {
@@ -364,7 +404,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#90LQVVUQ0",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#C8QYYP22",
@@ -854,7 +899,12 @@
           "isCleanup": true
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#90LQVVUQ0",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#2U2JJ2UVC",
