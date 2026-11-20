@@ -44,7 +44,12 @@
           "isCleanup": true
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#2CYYPGLGY",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#LLPQQLP2L",
@@ -91,8 +96,27 @@
       "name": "Gercsss",
       "townhallLevel": 18,
       "mapPosition": 30,
-      "attacks": [],
-      "defense": null
+      "attacks": [
+        {
+          "attackerTag": "#GCQPVY9JC",
+          "defenderTag": "#LV2CCV9CC",
+          "stars": 1,
+          "destructionPercentage": 87,
+          "order": 98,
+          "duration": 142,
+          "attackerTh": 18,
+          "defenderTh": 17,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
+      "defense": {
+        "attackerTag": "#9V08QCYUU",
+        "attackerTh": 19,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#QJRGQUPUY",
@@ -299,7 +323,12 @@
       "townhallLevel": 18,
       "mapPosition": 25,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#2CYYPGLGY",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#QCGULR0YL",
@@ -453,7 +482,12 @@
       "townhallLevel": 18,
       "mapPosition": 29,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#29JQCR29J",
+        "attackerTh": 19,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#PR9CYY2CR",
@@ -541,7 +575,12 @@
       "townhallLevel": 18,
       "mapPosition": 28,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#290VJ9ULG",
+        "attackerTh": 19,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#2JRCP0V8P",
@@ -577,10 +616,10 @@
         }
       ],
       "defense": {
-        "attackerTag": "#G08VLQY80",
-        "attackerTh": 17,
-        "stars": 2,
-        "destructionPercentage": 99
+        "attackerTag": "#29JQCR29J",
+        "attackerTh": 19,
+        "stars": 3,
+        "destructionPercentage": 100
       }
     },
     {
@@ -881,20 +920,79 @@
       "name": "Gercs",
       "townhallLevel": 18,
       "mapPosition": 27,
-      "attacks": [],
-      "defense": null
+      "attacks": [
+        {
+          "attackerTag": "#GRRJUG2J8",
+          "defenderTag": "#QJY0L92RU",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 94,
+          "duration": 162,
+          "attackerTh": 18,
+          "defenderTh": 17,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        },
+        {
+          "attackerTag": "#GRRJUG2J8",
+          "defenderTag": "#99P2R92QP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 97,
+          "duration": 130,
+          "attackerTh": 18,
+          "defenderTh": 17,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
+      "defense": {
+        "attackerTag": "#290VJ9ULG",
+        "attackerTh": 19,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#QURQ2CLQ8",
       "name": "VD04",
       "townhallLevel": 17,
       "mapPosition": 34,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#QURQ2CLQ8",
+          "defenderTag": "#CQ9RL0YL",
+          "stars": 2,
+          "destructionPercentage": 80,
+          "order": 95,
+          "duration": 85,
+          "attackerTh": 17,
+          "defenderTh": 19,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        },
+        {
+          "attackerTag": "#QURQ2CLQ8",
+          "defenderTag": "#8VCY9C2JC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 96,
+          "duration": 150,
+          "attackerTh": 17,
+          "defenderTh": 17,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": {
-        "attackerTag": "#20VRVLLLL",
-        "attackerTh": 17,
-        "stars": 2,
-        "destructionPercentage": 98
+        "attackerTag": "#CQ9RL0YL",
+        "attackerTh": 19,
+        "stars": 3,
+        "destructionPercentage": 100
       }
     },
     {
