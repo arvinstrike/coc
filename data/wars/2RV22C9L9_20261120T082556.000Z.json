@@ -59,7 +59,34 @@
       "name": "Dismalsneeze11",
       "townhallLevel": 18,
       "mapPosition": 19,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#QJRGQUPUY",
+          "defenderTag": "#GPRP09QVQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 60,
+          "duration": 92,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        },
+        {
+          "attackerTag": "#QJRGQUPUY",
+          "defenderTag": "#YV2JV88Y",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 61,
+          "duration": 97,
+          "attackerTh": 18,
+          "defenderTh": 19,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": null
     },
     {
@@ -331,6 +358,19 @@
           "isMirror": false,
           "firstHit": false,
           "isCleanup": true
+        },
+        {
+          "attackerTag": "#Y09UUGVGL",
+          "defenderTag": "#U2C0G92V",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 57,
+          "duration": 155,
+          "attackerTh": 19,
+          "defenderTh": 19,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
         }
       ],
       "defense": {
@@ -345,7 +385,34 @@
       "name": "DarkDifusion",
       "townhallLevel": 18,
       "mapPosition": 22,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#PR9CYY2CR",
+          "defenderTag": "#GJP9RYJCR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 62,
+          "duration": 143,
+          "attackerTh": 18,
+          "defenderTh": 16,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        },
+        {
+          "attackerTag": "#PR9CYY2CR",
+          "defenderTag": "#GPQUQR9UG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 63,
+          "duration": 94,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        }
+      ],
       "defense": null
     },
     {
@@ -531,7 +598,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#QPRUUPUJV",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#GLVLCPRYV",
@@ -741,7 +813,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#QPRUUPUJV",
+        "attackerTh": 18,
+        "stars": 1,
+        "destructionPercentage": 80
+      }
     }
   ]
 }
