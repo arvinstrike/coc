@@ -51,7 +51,34 @@
       "name": "Gercsss",
       "townhallLevel": 18,
       "mapPosition": 25,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#GCQPVY9JC",
+          "defenderTag": "#GC008VG2R",
+          "stars": 2,
+          "destructionPercentage": 53,
+          "order": 66,
+          "duration": 51,
+          "attackerTh": 18,
+          "defenderTh": 18,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        },
+        {
+          "attackerTag": "#GCQPVY9JC",
+          "defenderTag": "#8R0UCYQCV",
+          "stars": 2,
+          "destructionPercentage": 66,
+          "order": 67,
+          "duration": 110,
+          "attackerTh": 18,
+          "defenderTh": 19,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
       "defense": null
     },
     {
@@ -149,7 +176,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#8CUVYQP0C",
+        "attackerTh": 19,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#UGJJ0PCU",
@@ -290,7 +322,12 @@
       "townhallLevel": 17,
       "mapPosition": 30,
       "attacks": [],
-      "defense": null
+      "defense": {
+        "attackerTag": "#GRQR98UP2",
+        "attackerTh": 18,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#G8G2C8RPR",
@@ -448,7 +485,12 @@
           "isCleanup": false
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#QRQCJ09Q0",
+        "attackerTh": 19,
+        "stars": 2,
+        "destructionPercentage": 95
+      }
     },
     {
       "tag": "#2JRCP0V8P",
@@ -651,7 +693,12 @@
           "isCleanup": true
         }
       ],
-      "defense": null
+      "defense": {
+        "attackerTag": "#QRQCJ09Q0",
+        "attackerTh": 19,
+        "stars": 3,
+        "destructionPercentage": 100
+      }
     },
     {
       "tag": "#8Q0C2V9GR",
@@ -738,7 +785,34 @@
       "name": "Gercs",
       "townhallLevel": 18,
       "mapPosition": 23,
-      "attacks": [],
+      "attacks": [
+        {
+          "attackerTag": "#GRRJUG2J8",
+          "defenderTag": "#GVC99PJUL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 64,
+          "duration": 64,
+          "attackerTh": 18,
+          "defenderTh": 16,
+          "isMirror": false,
+          "firstHit": true,
+          "isCleanup": false
+        },
+        {
+          "attackerTag": "#GRRJUG2J8",
+          "defenderTag": "#GJP9RYJCR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 65,
+          "duration": 98,
+          "attackerTh": 18,
+          "defenderTh": 16,
+          "isMirror": false,
+          "firstHit": false,
+          "isCleanup": true
+        }
+      ],
       "defense": null
     },
     {
@@ -748,10 +822,10 @@
       "mapPosition": 29,
       "attacks": [],
       "defense": {
-        "attackerTag": "#GVC99PJUL",
-        "attackerTh": 16,
+        "attackerTag": "#GRQR98UP2",
+        "attackerTh": 18,
         "stars": 2,
-        "destructionPercentage": 56
+        "destructionPercentage": 79
       }
     },
     {
